@@ -18,6 +18,8 @@
     <uses-permission android:name="android.permission.GET_TASKS" />
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
     <uses-permission android:name="android.permission.READ_LOGS" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
 
     <application
         android:allowBackup="true"
@@ -57,7 +59,7 @@
             android:name="control.activity.ControlActivity"
             android:screenOrientation="landscape" />
         <activity
-            android:name="control.activity.TokyoActivity"
+            android:name="control.activity.EvolutionActivity"
             android:screenOrientation="landscape" />
         <activity
             android:name="control.activity.LoginActivity"

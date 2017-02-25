@@ -1,5 +1,4 @@
 package control.activity;
-import android.app.Activity;
 import android.content.Intent;
 import android.location.Location;
 import android.os.Bundle;
@@ -8,7 +7,6 @@ import android.util.Log;
 import android.view.View;
 import android.view.View.OnClickListener;
 import android.widget.TextView;
-import android.widget.VideoView;
 
 import org.rtspplayer.sample.R;
 
@@ -42,8 +40,8 @@ public class MainActivity  extends FragmentActivity implements OnClickListener, 
 		getActionBar().hide();
 		
 		TextView but1 = (TextView)findViewById(R.id.but_losageles);
-		TextView but2 = (TextView)findViewById(R.id.but_tokyo);
-		TextView but3 = (TextView)findViewById(R.id.but_saigon);
+		TextView but2 = (TextView)findViewById(R.id.but_saigon_evo2);
+		TextView but3 = (TextView)findViewById(R.id.but_saigon_evo_1);
 		TextView but4 = (TextView)findViewById(R.id.but_yokohama);
 		
 		but1.setOnClickListener(this);
@@ -60,6 +58,18 @@ public class MainActivity  extends FragmentActivity implements OnClickListener, 
 	}
 
 	@Override
+	protected void onStart() {
+		super.onStart();
+		locationController.connect();
+	}
+
+	@Override
+	protected void onStop() {
+		super.onStop();
+		locationController.disconnect();
+	}
+
+	@Override
 	public void onClick(View v) {
 		// TODO Auto-generated method stub
 		
@@ -71,14 +81,14 @@ public class MainActivity  extends FragmentActivity implements OnClickListener, 
 			startActivity(intent);
 			break;
 			
-		case R.id.but_saigon:
-			Intent intent2 = new Intent(getApplicationContext(), TokyoActivity.class);
+		case R.id.but_saigon_evo_1:
+			Intent intent2 = new Intent(getApplicationContext(), EvolutionActivity.class);
 			intent2.putExtra("robot", "9000");
 			startActivity(intent2);
 			break;
 			
-		case R.id.but_tokyo:
-			Intent intent3 = new Intent(getApplicationContext(), TokyoActivity.class);
+		case R.id.but_saigon_evo2:
+			Intent intent3 = new Intent(getApplicationContext(), EvolutionActivity.class);
 			intent3.putExtra("robot", "8000");
 			startActivity(intent3);
 			break;

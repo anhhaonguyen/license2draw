@@ -352,6 +352,7 @@ public class ControlActivity extends BasePlayerActivity implements
 		super.onResume();
 		
 		client.connect();
+
 		laserClient.connect();
 
 		onStartStream();
