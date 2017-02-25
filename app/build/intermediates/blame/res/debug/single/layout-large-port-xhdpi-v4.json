@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/doba/Documents/Programming/Freelancer/RTSPplayer/app/build/intermediates/res/merged/debug/layout-large-port-xhdpi-v4/activity_main.xml",
+        "source": "/Users/doba/Documents/Programming/Freelancer/RTSPplayer/app/src/main/res/layout-large-port-xhdpi/activity_main.xml"
+    },
+    {
+        "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/layout-large-port-xhdpi-v4/player_control_large_port_xhdpi.xml",
+        "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/src/main/res/layout-large-port-xhdpi/player_control_large_port_xhdpi.xml"
+    },
+    {
+        "merged": "/Users/doba/Documents/Programming/Freelancer/RTSPplayer/app/build/intermediates/res/merged/debug/layout-large-port-xhdpi-v4/player_control_large_port_xhdpi.xml",
+        "source": "/Users/doba/Documents/Programming/Freelancer/RTSPplayer/app/src/main/res/layout-large-port-xhdpi/player_control_large_port_xhdpi.xml"
+    }
+]

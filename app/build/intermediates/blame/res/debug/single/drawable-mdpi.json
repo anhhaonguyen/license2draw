@@ -1,0 +1,410 @@
+[
+    {
+        "merged": "/Users/doba/Documents/Programming/Freelancer/RTSPplayer/app/build/intermediates/res/merged/debug/drawable-mdpi/progress_primary_mystyleplayer.9.png",
+        "source": "/Users/doba/Documents/Programming/Freelancer/RTSPplayer/app/src/main/res/drawable-mdpi/progress_primary_mystyleplayer.9.png"
+    },
+    {
+        "merged": "/Users/doba/Documents/Programming/Freelancer/RTSPplayer/app/build/intermediates/res/merged/debug/drawable-mdpi/cab_background_top_mystyleplayer.9.png",
+        "source": "/Users/doba/Documents/Programming/Freelancer/RTSPplayer/app/src/main/res/drawable-mdpi/cab_background_top_mystyleplayer.9.png"
+    },
+    {
+        "merged": "/Users/doba/Documents/Programming/Freelancer/RTSPplayer/app/build/intermediates/res/merged/debug/drawable-mdpi/spinner_ab_pressed_mystyleplayer.9.png",
+        "source": "/Users/doba/Documents/Programming/Freelancer/RTSPplayer/app/src/main/res/drawable-mdpi/spinner_ab_pressed_mystyleplayer.9.png"
+    },
+    {
+        "merged": "/Users/doba/Documents/Programming/Freelancer/RTSPplayer/app/build/intermediates/res/merged/debug/drawable-mdpi/tab_unselected_focused_mystyleplayer.9.png",
+        "source": "/Users/doba/Documents/Programming/Freelancer/RTSPplayer/app/src/main/res/drawable-mdpi/tab_unselected_focused_mystyleplayer.9.png"
+    },
+    {
+        "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/drawable-mdpi/icon.png",
+        "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/src/main/res/drawable-mdpi/icon.png"
+    },
+    {
+        "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/drawable-mdpi/icon_forward_pressed.png",
+        "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/src/main/res/drawable-mdpi/icon_forward_pressed.png"
+    },
+    {
+        "merged": "/Users/doba/Documents/Programming/Freelancer/RTSPplayer/app/build/intermediates/res/merged/debug/drawable-mdpi/icon_forward_pressed.png",
+        "source": "/Users/doba/Documents/Programming/Freelancer/RTSPplayer/app/src/main/res/drawable-mdpi/icon_forward_pressed.png"
+    },
+    {
+        "merged": "/Users/doba/Documents/Programming/Freelancer/RTSPplayer/app/build/intermediates/res/merged/debug/drawable-mdpi/app.png",
+        "source": "/Users/doba/Documents/Programming/Freelancer/RTSPplayer/app/src/main/res/drawable-mdpi/app.png"
+    },
+    {
+        "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/drawable-mdpi/player_next_mdpi.png",
+        "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/src/main/res/drawable-mdpi/player_next_mdpi.png"
+    },
+    {
+        "merged": "/Users/doba/Documents/Programming/Freelancer/RTSPplayer/app/build/intermediates/res/merged/debug/drawable-mdpi/icon_right_pressed.png",
+        "source": "/Users/doba/Documents/Programming/Freelancer/RTSPplayer/app/src/main/res/drawable-mdpi/icon_right_pressed.png"
+    },
+    {
+        "merged": "/Users/doba/Documents/Programming/Freelancer/RTSPplayer/app/build/intermediates/res/merged/debug/drawable-mdpi/tab_unselected_mystyleplayer.9.png",
+        "source": "/Users/doba/Documents/Programming/Freelancer/RTSPplayer/app/src/main/res/drawable-mdpi/tab_unselected_mystyleplayer.9.png"
+    },
+    {
+        "merged": "/Users/doba/Documents/Programming/Freelancer/RTSPplayer/app/build/intermediates/res/merged/debug/drawable-mdpi/ab_solid_mystyleplayer.9.png",
+        "source": "/Users/doba/Documents/Programming/Freelancer/RTSPplayer/app/src/main/res/drawable-mdpi/ab_solid_mystyleplayer.9.png"
+    },
+    {
+        "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/drawable-mdpi/tab_unselected_focused_mystyleplayer.9.png",
+        "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/src/main/res/drawable-mdpi/tab_unselected_focused_mystyleplayer.9.png"
+    },
+    {
+        "merged": "/Users/doba/Documents/Programming/Freelancer/RTSPplayer/app/build/intermediates/res/merged/debug/drawable-mdpi/progress_secondary_mystyleplayer.9.png",
+        "source": "/Users/doba/Documents/Programming/Freelancer/RTSPplayer/app/src/main/res/drawable-mdpi/progress_secondary_mystyleplayer.9.png"
+    },
+    {
+        "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/drawable-mdpi/player_screen_zoom_mdpi.png",
+        "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/src/main/res/drawable-mdpi/player_screen_zoom_mdpi.png"
+    },
+    {
+        "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/drawable-mdpi/player_screen_full_mdpi.png",
+        "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/src/main/res/drawable-mdpi/player_screen_full_mdpi.png"
+    },
+    {
+        "merged": "/Users/doba/Documents/Programming/Freelancer/RTSPplayer/app/build/intermediates/res/merged/debug/drawable-mdpi/spinner_ab_default_mystyleplayer.9.png",
+        "source": "/Users/doba/Documents/Programming/Freelancer/RTSPplayer/app/src/main/res/drawable-mdpi/spinner_ab_default_mystyleplayer.9.png"
+    },
+    {
+        "merged": "/Users/doba/Documents/Programming/Freelancer/RTSPplayer/app/build/intermediates/res/merged/debug/drawable-mdpi/icon_backward_pressed.png",
+        "source": "/Users/doba/Documents/Programming/Freelancer/RTSPplayer/app/src/main/res/drawable-mdpi/icon_backward_pressed.png"
+    },
+    {
+        "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/drawable-mdpi/spinner_ab_disabled_mystyleplayer.9.png",
+        "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/src/main/res/drawable-mdpi/spinner_ab_disabled_mystyleplayer.9.png"
+    },
+    {
+        "merged": "/Users/doba/Documents/Programming/Freelancer/RTSPplayer/app/build/intermediates/res/merged/debug/drawable-mdpi/icon_left.png",
+        "source": "/Users/doba/Documents/Programming/Freelancer/RTSPplayer/app/src/main/res/drawable-mdpi/icon_left.png"
+    },
+    {
+        "merged": "/Users/doba/Documents/Programming/Freelancer/RTSPplayer/app/build/intermediates/res/merged/debug/drawable-mdpi/progress_bg_mystyleplayer.9.png",
+        "source": "/Users/doba/Documents/Programming/Freelancer/RTSPplayer/app/src/main/res/drawable-mdpi/progress_bg_mystyleplayer.9.png"
+    },
+    {
+        "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/drawable-mdpi/player_screen_compact_mdpi.png",
+        "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/src/main/res/drawable-mdpi/player_screen_compact_mdpi.png"
+    },
+    {
+        "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/drawable-mdpi/player_screen_crop_mdpi.png",
+        "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/src/main/res/drawable-mdpi/player_screen_crop_mdpi.png"
+    },
+    {
+        "merged": "/Users/doba/Documents/Programming/Freelancer/RTSPplayer/app/build/intermediates/res/merged/debug/drawable-mdpi/btn_cab_done_focused_mystyleplayer.9.png",
+        "source": "/Users/doba/Documents/Programming/Freelancer/RTSPplayer/app/src/main/res/drawable-mdpi/btn_cab_done_focused_mystyleplayer.9.png"
+    },
+    {
+        "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/drawable-mdpi/tab_unselected_pressed_mystyleplayer.9.png",
+        "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/src/main/res/drawable-mdpi/tab_unselected_pressed_mystyleplayer.9.png"
+    },
+    {
+        "merged": "/Users/doba/Documents/Programming/Freelancer/RTSPplayer/app/build/intermediates/res/merged/debug/drawable-mdpi/player_pause_mdpi.png",
+        "source": "/Users/doba/Documents/Programming/Freelancer/RTSPplayer/app/src/main/res/drawable-mdpi/player_pause_mdpi.png"
+    },
+    {
+        "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/drawable-mdpi/player_screen_aspect_mdpi.png",
+        "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/src/main/res/drawable-mdpi/player_screen_aspect_mdpi.png"
+    },
+    {
+        "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/drawable-mdpi/but_close_pressed.png",
+        "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/src/main/res/drawable-mdpi/but_close_pressed.png"
+    },
+    {
+        "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/drawable-mdpi/player_screen_realsize_mdpi.png",
+        "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/src/main/res/drawable-mdpi/player_screen_realsize_mdpi.png"
+    },
+    {
+        "merged": "/Users/doba/Documents/Programming/Freelancer/RTSPplayer/app/build/intermediates/res/merged/debug/drawable-mdpi/player_play_mdpi.png",
+        "source": "/Users/doba/Documents/Programming/Freelancer/RTSPplayer/app/src/main/res/drawable-mdpi/player_play_mdpi.png"
+    },
+    {
+        "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/drawable-mdpi/icon_backward_pressed.png",
+        "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/src/main/res/drawable-mdpi/icon_backward_pressed.png"
+    },
+    {
+        "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/drawable-mdpi/player_play_mdpi.png",
+        "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/src/main/res/drawable-mdpi/player_play_mdpi.png"
+    },
+    {
+        "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/drawable-mdpi/tab_selected_focused_mystyleplayer.9.png",
+        "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/src/main/res/drawable-mdpi/tab_selected_focused_mystyleplayer.9.png"
+    },
+    {
+        "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/drawable-mdpi/icon_backward.png",
+        "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/src/main/res/drawable-mdpi/icon_backward.png"
+    },
+    {
+        "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/drawable-mdpi/ab_transparent_mystyleplayer.9.png",
+        "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/src/main/res/drawable-mdpi/ab_transparent_mystyleplayer.9.png"
+    },
+    {
+        "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/drawable-mdpi/but_close_normal.png",
+        "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/src/main/res/drawable-mdpi/but_close_normal.png"
+    },
+    {
+        "merged": "/Users/doba/Documents/Programming/Freelancer/RTSPplayer/app/build/intermediates/res/merged/debug/drawable-mdpi/tab_unselected_pressed_mystyleplayer.9.png",
+        "source": "/Users/doba/Documents/Programming/Freelancer/RTSPplayer/app/src/main/res/drawable-mdpi/tab_unselected_pressed_mystyleplayer.9.png"
+    },
+    {
+        "merged": "/Users/doba/Documents/Programming/Freelancer/RTSPplayer/app/build/intermediates/res/merged/debug/drawable-mdpi/player_screen_full_mdpi.png",
+        "source": "/Users/doba/Documents/Programming/Freelancer/RTSPplayer/app/src/main/res/drawable-mdpi/player_screen_full_mdpi.png"
+    },
+    {
+        "merged": "/Users/doba/Documents/Programming/Freelancer/RTSPplayer/app/build/intermediates/res/merged/debug/drawable-mdpi/ab_stacked_solid_mystyleplayer.9.png",
+        "source": "/Users/doba/Documents/Programming/Freelancer/RTSPplayer/app/src/main/res/drawable-mdpi/ab_stacked_solid_mystyleplayer.9.png"
+    },
+    {
+        "merged": "/Users/doba/Documents/Programming/Freelancer/RTSPplayer/app/build/intermediates/res/merged/debug/drawable-mdpi/player_screen_realsize_mdpi.png",
+        "source": "/Users/doba/Documents/Programming/Freelancer/RTSPplayer/app/src/main/res/drawable-mdpi/player_screen_realsize_mdpi.png"
+    },
+    {
+        "merged": "/Users/doba/Documents/Programming/Freelancer/RTSPplayer/app/build/intermediates/res/merged/debug/drawable-mdpi/ab_transparent_mystyleplayer.9.png",
+        "source": "/Users/doba/Documents/Programming/Freelancer/RTSPplayer/app/src/main/res/drawable-mdpi/ab_transparent_mystyleplayer.9.png"
+    },
+    {
+        "merged": "/Users/doba/Documents/Programming/Freelancer/RTSPplayer/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_launcher.png",
+        "source": "/Users/doba/Documents/Programming/Freelancer/RTSPplayer/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/doba/Documents/Programming/Freelancer/RTSPplayer/app/build/intermediates/res/merged/debug/drawable-mdpi/ab_bottom_solid_mystyleplayer.9.png",
+        "source": "/Users/doba/Documents/Programming/Freelancer/RTSPplayer/app/src/main/res/drawable-mdpi/ab_bottom_solid_mystyleplayer.9.png"
+    },
+    {
+        "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/drawable-mdpi/icon_right.png",
+        "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/src/main/res/drawable-mdpi/icon_right.png"
+    },
+    {
+        "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/drawable-mdpi/btn_cab_done_pressed_mystyleplayer.9.png",
+        "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/src/main/res/drawable-mdpi/btn_cab_done_pressed_mystyleplayer.9.png"
+    },
+    {
+        "merged": "/Users/doba/Documents/Programming/Freelancer/RTSPplayer/app/build/intermediates/res/merged/debug/drawable-mdpi/tab_selected_mystyleplayer.9.png",
+        "source": "/Users/doba/Documents/Programming/Freelancer/RTSPplayer/app/src/main/res/drawable-mdpi/tab_selected_mystyleplayer.9.png"
+    },
+    {
+        "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/drawable-mdpi/spinner_ab_pressed_mystyleplayer.9.png",
+        "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/src/main/res/drawable-mdpi/spinner_ab_pressed_mystyleplayer.9.png"
+    },
+    {
+        "merged": "/Users/doba/Documents/Programming/Freelancer/RTSPplayer/app/build/intermediates/res/merged/debug/drawable-mdpi/list_pressed_mystyleplayer.9.png",
+        "source": "/Users/doba/Documents/Programming/Freelancer/RTSPplayer/app/src/main/res/drawable-mdpi/list_pressed_mystyleplayer.9.png"
+    },
+    {
+        "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/drawable-mdpi/ab_texture_tile_mystyleplayer.png",
+        "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/src/main/res/drawable-mdpi/ab_texture_tile_mystyleplayer.png"
+    },
+    {
+        "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/drawable-mdpi/icon_left_pressed.png",
+        "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/src/main/res/drawable-mdpi/icon_left_pressed.png"
+    },
+    {
+        "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/drawable-mdpi/tab_unselected_mystyleplayer.9.png",
+        "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/src/main/res/drawable-mdpi/tab_unselected_mystyleplayer.9.png"
+    },
+    {
+        "merged": "/Users/doba/Documents/Programming/Freelancer/RTSPplayer/app/build/intermediates/res/merged/debug/drawable-mdpi/menu_dropdown_panel_mystyleplayer.9.png",
+        "source": "/Users/doba/Documents/Programming/Freelancer/RTSPplayer/app/src/main/res/drawable-mdpi/menu_dropdown_panel_mystyleplayer.9.png"
+    },
+    {
+        "merged": "/Users/doba/Documents/Programming/Freelancer/RTSPplayer/app/build/intermediates/res/merged/debug/drawable-mdpi/spinner_ab_disabled_mystyleplayer.9.png",
+        "source": "/Users/doba/Documents/Programming/Freelancer/RTSPplayer/app/src/main/res/drawable-mdpi/spinner_ab_disabled_mystyleplayer.9.png"
+    },
+    {
+        "merged": "/Users/doba/Documents/Programming/Freelancer/RTSPplayer/app/build/intermediates/res/merged/debug/drawable-mdpi/icon_backward.png",
+        "source": "/Users/doba/Documents/Programming/Freelancer/RTSPplayer/app/src/main/res/drawable-mdpi/icon_backward.png"
+    },
+    {
+        "merged": "/Users/doba/Documents/Programming/Freelancer/RTSPplayer/app/build/intermediates/res/merged/debug/drawable-mdpi/btn_cab_done_pressed_mystyleplayer.9.png",
+        "source": "/Users/doba/Documents/Programming/Freelancer/RTSPplayer/app/src/main/res/drawable-mdpi/btn_cab_done_pressed_mystyleplayer.9.png"
+    },
+    {
+        "merged": "/Users/doba/Documents/Programming/Freelancer/RTSPplayer/app/build/intermediates/res/merged/debug/drawable-mdpi/player_next_mdpi.png",
+        "source": "/Users/doba/Documents/Programming/Freelancer/RTSPplayer/app/src/main/res/drawable-mdpi/player_next_mdpi.png"
+    },
+    {
+        "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/drawable-mdpi/cab_background_bottom_mystyleplayer.9.png",
+        "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/src/main/res/drawable-mdpi/cab_background_bottom_mystyleplayer.9.png"
+    },
+    {
+        "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/drawable-mdpi/cab_background_top_mystyleplayer.9.png",
+        "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/src/main/res/drawable-mdpi/cab_background_top_mystyleplayer.9.png"
+    },
+    {
+        "merged": "/Users/doba/Documents/Programming/Freelancer/RTSPplayer/app/build/intermediates/res/merged/debug/drawable-mdpi/tab_selected_focused_mystyleplayer.9.png",
+        "source": "/Users/doba/Documents/Programming/Freelancer/RTSPplayer/app/src/main/res/drawable-mdpi/tab_selected_focused_mystyleplayer.9.png"
+    },
+    {
+        "merged": "/Users/doba/Documents/Programming/Freelancer/RTSPplayer/app/build/intermediates/res/merged/debug/drawable-mdpi/icon.png",
+        "source": "/Users/doba/Documents/Programming/Freelancer/RTSPplayer/app/src/main/res/drawable-mdpi/icon.png"
+    },
+    {
+        "merged": "/Users/doba/Documents/Programming/Freelancer/RTSPplayer/app/build/intermediates/res/merged/debug/drawable-mdpi/player_lock_mdpi.png",
+        "source": "/Users/doba/Documents/Programming/Freelancer/RTSPplayer/app/src/main/res/drawable-mdpi/player_lock_mdpi.png"
+    },
+    {
+        "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/drawable-mdpi/progress_primary_mystyleplayer.9.png",
+        "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/src/main/res/drawable-mdpi/progress_primary_mystyleplayer.9.png"
+    },
+    {
+        "merged": "/Users/doba/Documents/Programming/Freelancer/RTSPplayer/app/build/intermediates/res/merged/debug/drawable-mdpi/player_screen_crop_mdpi.png",
+        "source": "/Users/doba/Documents/Programming/Freelancer/RTSPplayer/app/src/main/res/drawable-mdpi/player_screen_crop_mdpi.png"
+    },
+    {
+        "merged": "/Users/doba/Documents/Programming/Freelancer/RTSPplayer/app/build/intermediates/res/merged/debug/drawable-mdpi/ab_texture_tile_mystyleplayer.png",
+        "source": "/Users/doba/Documents/Programming/Freelancer/RTSPplayer/app/src/main/res/drawable-mdpi/ab_texture_tile_mystyleplayer.png"
+    },
+    {
+        "merged": "/Users/doba/Documents/Programming/Freelancer/RTSPplayer/app/build/intermediates/res/merged/debug/drawable-mdpi/cab_background_bottom_mystyleplayer.9.png",
+        "source": "/Users/doba/Documents/Programming/Freelancer/RTSPplayer/app/src/main/res/drawable-mdpi/cab_background_bottom_mystyleplayer.9.png"
+    },
+    {
+        "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/drawable-mdpi/menu_dropdown_panel_mystyleplayer.9.png",
+        "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/src/main/res/drawable-mdpi/menu_dropdown_panel_mystyleplayer.9.png"
+    },
+    {
+        "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/drawable-mdpi/player_lock_mdpi.png",
+        "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/src/main/res/drawable-mdpi/player_lock_mdpi.png"
+    },
+    {
+        "merged": "/Users/doba/Documents/Programming/Freelancer/RTSPplayer/app/build/intermediates/res/merged/debug/drawable-mdpi/but_close_pressed.png",
+        "source": "/Users/doba/Documents/Programming/Freelancer/RTSPplayer/app/src/main/res/drawable-mdpi/but_close_pressed.png"
+    },
+    {
+        "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/drawable-mdpi/progress_bg_mystyleplayer.9.png",
+        "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/src/main/res/drawable-mdpi/progress_bg_mystyleplayer.9.png"
+    },
+    {
+        "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/drawable-mdpi/progress_secondary_mystyleplayer.9.png",
+        "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/src/main/res/drawable-mdpi/progress_secondary_mystyleplayer.9.png"
+    },
+    {
+        "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/drawable-mdpi/list_pressed_mystyleplayer.9.png",
+        "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/src/main/res/drawable-mdpi/list_pressed_mystyleplayer.9.png"
+    },
+    {
+        "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/drawable-mdpi/tab_selected_mystyleplayer.9.png",
+        "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/src/main/res/drawable-mdpi/tab_selected_mystyleplayer.9.png"
+    },
+    {
+        "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/drawable-mdpi/player_pause_mdpi.png",
+        "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/src/main/res/drawable-mdpi/player_pause_mdpi.png"
+    },
+    {
+        "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_launcher.png",
+        "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/doba/Documents/Programming/Freelancer/RTSPplayer/app/build/intermediates/res/merged/debug/drawable-mdpi/player_screen_stretch_mdpi.png",
+        "source": "/Users/doba/Documents/Programming/Freelancer/RTSPplayer/app/src/main/res/drawable-mdpi/player_screen_stretch_mdpi.png"
+    },
+    {
+        "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/drawable-mdpi/ab_solid_mystyleplayer.9.png",
+        "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/src/main/res/drawable-mdpi/ab_solid_mystyleplayer.9.png"
+    },
+    {
+        "merged": "/Users/doba/Documents/Programming/Freelancer/RTSPplayer/app/build/intermediates/res/merged/debug/drawable-mdpi/icon_left_pressed.png",
+        "source": "/Users/doba/Documents/Programming/Freelancer/RTSPplayer/app/src/main/res/drawable-mdpi/icon_left_pressed.png"
+    },
+    {
+        "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/drawable-mdpi/spinner_ab_default_mystyleplayer.9.png",
+        "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/src/main/res/drawable-mdpi/spinner_ab_default_mystyleplayer.9.png"
+    },
+    {
+        "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/drawable-mdpi/btn_cab_done_focused_mystyleplayer.9.png",
+        "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/src/main/res/drawable-mdpi/btn_cab_done_focused_mystyleplayer.9.png"
+    },
+    {
+        "merged": "/Users/doba/Documents/Programming/Freelancer/RTSPplayer/app/build/intermediates/res/merged/debug/drawable-mdpi/icon_right.png",
+        "source": "/Users/doba/Documents/Programming/Freelancer/RTSPplayer/app/src/main/res/drawable-mdpi/icon_right.png"
+    },
+    {
+        "merged": "/Users/doba/Documents/Programming/Freelancer/RTSPplayer/app/build/intermediates/res/merged/debug/drawable-mdpi/player_screen_compact_mdpi.png",
+        "source": "/Users/doba/Documents/Programming/Freelancer/RTSPplayer/app/src/main/res/drawable-mdpi/player_screen_compact_mdpi.png"
+    },
+    {
+        "merged": "/Users/doba/Documents/Programming/Freelancer/RTSPplayer/app/build/intermediates/res/merged/debug/drawable-mdpi/spinner_ab_focused_mystyleplayer.9.png",
+        "source": "/Users/doba/Documents/Programming/Freelancer/RTSPplayer/app/src/main/res/drawable-mdpi/spinner_ab_focused_mystyleplayer.9.png"
+    },
+    {
+        "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/drawable-mdpi/ab_stacked_solid_mystyleplayer.9.png",
+        "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/src/main/res/drawable-mdpi/ab_stacked_solid_mystyleplayer.9.png"
+    },
+    {
+        "merged": "/Users/doba/Documents/Programming/Freelancer/RTSPplayer/app/build/intermediates/res/merged/debug/drawable-mdpi/but_close_normal.png",
+        "source": "/Users/doba/Documents/Programming/Freelancer/RTSPplayer/app/src/main/res/drawable-mdpi/but_close_normal.png"
+    },
+    {
+        "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/drawable-mdpi/player_screen_stretch_mdpi.png",
+        "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/src/main/res/drawable-mdpi/player_screen_stretch_mdpi.png"
+    },
+    {
+        "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/drawable-mdpi/player_previous_mdpi.png",
+        "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/src/main/res/drawable-mdpi/player_previous_mdpi.png"
+    },
+    {
+        "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/drawable-mdpi/btn_cab_done_default_mystyleplayer.9.png",
+        "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/src/main/res/drawable-mdpi/btn_cab_done_default_mystyleplayer.9.png"
+    },
+    {
+        "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/drawable-mdpi/ab_bottom_solid_mystyleplayer.9.png",
+        "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/src/main/res/drawable-mdpi/ab_bottom_solid_mystyleplayer.9.png"
+    },
+    {
+        "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/drawable-mdpi/icon_right_pressed.png",
+        "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/src/main/res/drawable-mdpi/icon_right_pressed.png"
+    },
+    {
+        "merged": "/Users/doba/Documents/Programming/Freelancer/RTSPplayer/app/build/intermediates/res/merged/debug/drawable-mdpi/player_screen_aspect_mdpi.png",
+        "source": "/Users/doba/Documents/Programming/Freelancer/RTSPplayer/app/src/main/res/drawable-mdpi/player_screen_aspect_mdpi.png"
+    },
+    {
+        "merged": "/Users/doba/Documents/Programming/Freelancer/RTSPplayer/app/build/intermediates/res/merged/debug/drawable-mdpi/icon_forward.png",
+        "source": "/Users/doba/Documents/Programming/Freelancer/RTSPplayer/app/src/main/res/drawable-mdpi/icon_forward.png"
+    },
+    {
+        "merged": "/Users/doba/Documents/Programming/Freelancer/RTSPplayer/app/build/intermediates/res/merged/debug/drawable-mdpi/player_screen_zoom_mdpi.png",
+        "source": "/Users/doba/Documents/Programming/Freelancer/RTSPplayer/app/src/main/res/drawable-mdpi/player_screen_zoom_mdpi.png"
+    },
+    {
+        "merged": "/Users/doba/Documents/Programming/Freelancer/RTSPplayer/app/build/intermediates/res/merged/debug/drawable-mdpi/tab_selected_pressed_mystyleplayer.9.png",
+        "source": "/Users/doba/Documents/Programming/Freelancer/RTSPplayer/app/src/main/res/drawable-mdpi/tab_selected_pressed_mystyleplayer.9.png"
+    },
+    {
+        "merged": "/Users/doba/Documents/Programming/Freelancer/RTSPplayer/app/build/intermediates/res/merged/debug/drawable-mdpi/player_previous_mdpi.png",
+        "source": "/Users/doba/Documents/Programming/Freelancer/RTSPplayer/app/src/main/res/drawable-mdpi/player_previous_mdpi.png"
+    },
+    {
+        "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/drawable-mdpi/list_focused_mystyleplayer.9.png",
+        "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/src/main/res/drawable-mdpi/list_focused_mystyleplayer.9.png"
+    },
+    {
+        "merged": "/Users/doba/Documents/Programming/Freelancer/RTSPplayer/app/build/intermediates/res/merged/debug/drawable-mdpi/btn_cab_done_default_mystyleplayer.9.png",
+        "source": "/Users/doba/Documents/Programming/Freelancer/RTSPplayer/app/src/main/res/drawable-mdpi/btn_cab_done_default_mystyleplayer.9.png"
+    },
+    {
+        "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/drawable-mdpi/spinner_ab_focused_mystyleplayer.9.png",
+        "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/src/main/res/drawable-mdpi/spinner_ab_focused_mystyleplayer.9.png"
+    },
+    {
+        "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/drawable-mdpi/icon_forward.png",
+        "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/src/main/res/drawable-mdpi/icon_forward.png"
+    },
+    {
+        "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/drawable-mdpi/icon_left.png",
+        "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/src/main/res/drawable-mdpi/icon_left.png"
+    },
+    {
+        "merged": "/Users/doba/Documents/Programming/Freelancer/RTSPplayer/app/build/intermediates/res/merged/debug/drawable-mdpi/list_focused_mystyleplayer.9.png",
+        "source": "/Users/doba/Documents/Programming/Freelancer/RTSPplayer/app/src/main/res/drawable-mdpi/list_focused_mystyleplayer.9.png"
+    },
+    {
+        "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/drawable-mdpi/app.png",
+        "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/src/main/res/drawable-mdpi/app.png"
+    },
+    {
+        "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/drawable-mdpi/tab_selected_pressed_mystyleplayer.9.png",
+        "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/src/main/res/drawable-mdpi/tab_selected_pressed_mystyleplayer.9.png"
+    }
+]

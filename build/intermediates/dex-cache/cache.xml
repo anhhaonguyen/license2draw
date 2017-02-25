@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3995c09fd23b608b59641ccc0b5f3b01c587e9f7">
+        <dex dex="/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_755ee905dd051ce737569f4bd218fe533fdb6909/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bde664ca0e899bbc5eeb935e5a57bca4a92d19d0">
+        <dex dex="/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_99b394a6f68098cae429b1a55db7ec22ebd344f2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/libs/mediaplayersdk.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7969909d8b785134c0f6b76ddfe420e38cc15b88">
+        <dex dex="/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/transforms/dex/debug/folders/1000/2/mediaplayersdk_4c3b5ec7e136bb3aa4d7381250b8207b79c0df61/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/doba/Documents/IDE/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-19.1.0_0575a2eb037b8460e8477c5b9f5172f5a3cea589/classes.dex" />
+    </item>
+
+</items>
