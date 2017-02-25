@@ -1,6 +1,7 @@
 package control.activity;
 import android.app.Activity;
 import android.content.Intent;
+import android.location.Location;
 import android.os.Bundle;
 import android.support.v4.app.FragmentActivity;
 import android.util.Log;
@@ -11,11 +12,26 @@ import android.widget.VideoView;
 
 import org.rtspplayer.sample.R;
 
+import control.util.AppStatic;
+import control.util.LocationController;
 
-public class MainActivity  extends FragmentActivity implements OnClickListener {
+
+public class MainActivity  extends FragmentActivity implements OnClickListener, LocationController.LocationControllerListener{
 
 	private static final String TAG  = "MainACtivity";
-	
+
+	private LocationController locationController;
+
+	@Override
+	public void onFail() {
+
+	}
+
+	@Override
+	public void onLocationChanged(Location location) {
+		AppStatic.location = location;
+	}
+
 	@Override
 	public void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
@@ -32,6 +48,11 @@ public class MainActivity  extends FragmentActivity implements OnClickListener {
 		but2.setOnClickListener(this);
 		but3.setOnClickListener(this);
 		but4.setOnClickListener(this);
+
+		locationController = new LocationController(this);
+		locationController.setLocationListener(this);
+
+		AppStatic.location = new Location("");
 
 		Log.e(TAG, "onCreate "+0);
 	}
