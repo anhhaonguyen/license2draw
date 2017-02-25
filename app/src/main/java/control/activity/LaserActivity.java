@@ -16,9 +16,10 @@ import android.widget.ImageView;
 import org.rtspplayer.sample.R;
 
 import control.socket.WebSocketClient;
+import veg.mediaplayer.sdk.MediaPlayer;
 
 
-public class LaserActivity  extends FragmentActivity implements OnClickListener {
+public class LaserActivity  extends BasePlayerActivity implements OnClickListener {
 
 	private static final String TAG  = "LaserActivity";
 	private WebSocketClient client;
@@ -38,8 +39,9 @@ public class LaserActivity  extends FragmentActivity implements OnClickListener 
 		
 		Log.e(TAG, "onCreate "+0);
 
-		getActionBar().hide();
-		
+		player = (MediaPlayer) findViewById(R.id.playerView);
+		preparePlayer();
+
 		mLoadingDialog = new ProgressDialog(LaserActivity.this);
 		mLoadingDialog.setMessage("Loading...");
 		mLoadingDialog.setProgressStyle(ProgressDialog.STYLE_SPINNER);
@@ -132,6 +134,8 @@ public class LaserActivity  extends FragmentActivity implements OnClickListener 
 	@Override
 	public void onResume() {
 		super.onResume();
+
+		onStartStream();
 		
 		SocketClient.getInstances().setInfo("abc", "123123", robot);
 		SocketClient.getInstances().connect(new Notification() {

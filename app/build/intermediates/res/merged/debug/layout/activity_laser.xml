@@ -4,7 +4,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@drawable/background_main"
-    android:orientation="vertical" >
+    android:orientation="vertical">
 
     <ImageView
         android:layout_width="wrap_content"
@@ -18,69 +18,108 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:src="@drawable/view_state_left"
-        android:visibility="invisible" />
+        android:visibility="gone" />
 
-    <LinearLayout
+    <RelativeLayout
+        android:layout_marginLeft="8dp"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:gravity="center_horizontal"
-        android:orientation="horizontal" >
+        android:layout_height="match_parent">
 
-        <ImageView
-            android:id="@+id/laser1"
+        <LinearLayout
+            android:id="@+id/ll_left"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:background="@drawable/laser_beam"
-            android:contentDescription="@string/app_name" />
+            android:orientation="vertical">
 
-        <ImageView
-            android:id="@+id/laser2"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_marginLeft="40dp"
-            android:layout_marginRight="40dp"
-            android:background="@drawable/laser_beam"
-            android:contentDescription="@string/app_name" />
+            <LinearLayout
+                android:layout_margin="8dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
 
-        <ImageView
-            android:id="@+id/laser3"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:background="@drawable/laser_beam"
-            android:contentDescription="@string/app_name" />
-    </LinearLayout>
+                <ImageView
+                    android:id="@+id/laser1"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:background="@drawable/laser_beam"
+                    android:contentDescription="@string/app_name" />
 
-    <LinearLayout
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:gravity="center_horizontal" >
+                <TextView
+                    android:id="@+id/textView1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Laser 1"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:textColor="@color/white" />
+            </LinearLayout>
 
-        <TextView
-            android:id="@+id/textView1"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="Laser 1"
-            android:textAppearance="?android:attr/textAppearanceMedium"
-            android:textColor="@color/white" />
+            <LinearLayout
+                android:layout_margin="8dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
 
-        <TextView
-            android:id="@+id/textView2"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_marginLeft="50dp"
-            android:layout_marginRight="50dp"
-            android:text="Laser 2"
-            android:textAppearance="?android:attr/textAppearanceMedium"
-            android:textColor="@color/white" />
+                <ImageView
+                    android:id="@+id/laser2"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:background="@drawable/laser_beam"
+                    android:contentDescription="@string/app_name" />
 
-        <TextView
-            android:id="@+id/textView3"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="Laser 3"
-            android:textAppearance="?android:attr/textAppearanceMedium"
-            android:textColor="@color/white" />
+                <TextView
+                    android:id="@+id/textView2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Laser 2"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:textColor="@color/white" />
 
-    </LinearLayout>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_margin="8dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:id="@+id/laser3"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:background="@drawable/laser_beam"
+                    android:contentDescription="@string/app_name" />
+
+                <TextView
+                    android:id="@+id/textView3"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Laser 3"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:textColor="@color/white" />
+
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:background="@color/black"
+            android:layout_toRightOf="@+id/ll_left"
+            android:layout_centerInParent="true"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center_horizontal">
+
+            <veg.mediaplayer.sdk.MediaPlayer
+                android:id="@+id/playerView"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_gravity="center"
+                android:layout_weight="1.04" />
+
+        </LinearLayout>
+
+    </RelativeLayout>
+
+
 
 </LinearLayout>

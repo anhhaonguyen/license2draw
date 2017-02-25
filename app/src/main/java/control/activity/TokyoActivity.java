@@ -16,9 +16,10 @@ import android.widget.ImageView;
 import org.rtspplayer.sample.R;
 
 import control.socket.WebSocketClient;
+import veg.mediaplayer.sdk.MediaPlayer;
 
 
-public class TokyoActivity  extends FragmentActivity implements OnClickListener {
+public class TokyoActivity  extends BasePlayerActivity implements OnClickListener {
 
 	private static final String TAG  = "TokyoActivity";
 	private WebSocketClient client;
@@ -38,10 +39,9 @@ public class TokyoActivity  extends FragmentActivity implements OnClickListener 
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_tokyo);
 
-		getActionBar().hide();
-		
 		Log.e(TAG, "onCreate "+0);
-		
+		player = (MediaPlayer) findViewById(R.id.playerView);
+		preparePlayer();
 		mLoadingDialog = new ProgressDialog(TokyoActivity.this);
 		mLoadingDialog.setMessage("Loading...");
 		mLoadingDialog.setProgressStyle(ProgressDialog.STYLE_SPINNER);
@@ -427,6 +427,8 @@ public class TokyoActivity  extends FragmentActivity implements OnClickListener 
 			isActive = true;
 			client = SocketClient.getInstances().getClient();
 		}
+
+		onStartStream();
 	}
 	
 	public void clickLeftSide(View v){

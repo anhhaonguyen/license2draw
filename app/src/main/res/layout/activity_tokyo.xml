@@ -3,7 +3,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@drawable/background_main"
-    android:orientation="vertical" >
+    android:orientation="vertical">
 
     <ImageView
         android:id="@+id/img_logo"
@@ -15,14 +15,14 @@
         android:scaleType="fitXY" />
 
     <RelativeLayout
-        android:layout_below="@+id/img_logo"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
+        android:layout_below="@+id/img_logo"
         android:layout_centerHorizontal="true"
         android:layout_marginBottom="16dp"
         android:gravity="center"
-        android:orientation="vertical" >
+        android:orientation="vertical">
 
         <ImageView
             android:id="@+id/but_left_side"
@@ -41,7 +41,7 @@
             android:layout_alignParentRight="true"
             android:layout_centerVertical="true"
             android:layout_marginRight="32dp"
-            android:orientation="vertical" >
+            android:orientation="vertical">
 
             <ImageView
                 android:id="@+id/but_square"
@@ -59,24 +59,24 @@
         </LinearLayout>
 
         <RelativeLayout
-            android:layout_toRightOf="@+id/but_left_side"
-            android:layout_toLeftOf="@+id/ll_right"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_centerInParent="true"
-            android:orientation="horizontal" >
+            android:layout_toLeftOf="@+id/ll_right"
+            android:layout_toRightOf="@+id/but_left_side"
+            android:orientation="horizontal">
 
             <LinearLayout
                 android:id="@+id/ll_left"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:gravity="center_horizontal"
-                android:orientation="vertical" >
+                android:orientation="vertical">
 
                 <ImageView
                     android:id="@+id/but_left_top"
-                    android:layout_width="60dp"
-                    android:layout_height="60dp"
+                    android:layout_width="54dp"
+                    android:layout_height="54dp"
                     android:layout_margin="8dp"
                     android:background="@drawable/icon_up_left"
                     android:gravity="left"
@@ -84,8 +84,8 @@
 
                 <ImageView
                     android:id="@+id/but_left"
-                    android:layout_width="60dp"
-                    android:layout_height="60dp"
+                    android:layout_width="54dp"
+                    android:layout_height="54dp"
                     android:layout_margin="8dp"
                     android:background="@drawable/icon_left_tokyo"
                     android:gravity="left"
@@ -93,8 +93,8 @@
 
                 <ImageView
                     android:id="@+id/but_down_left"
-                    android:layout_width="60dp"
-                    android:layout_height="60dp"
+                    android:layout_width="54dp"
+                    android:layout_height="54dp"
                     android:layout_margin="8dp"
                     android:background="@drawable/right_rotate"
                     android:gravity="left"
@@ -102,52 +102,62 @@
             </LinearLayout>
 
             <RelativeLayout
-                android:layout_toLeftOf="@+id/ll_right_rl"
-                android:layout_toRightOf="@+id/ll_left"
-                android:layout_centerInParent="true"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
+                android:layout_centerInParent="true"
+                android:layout_toLeftOf="@+id/ll_right_rl"
+                android:layout_toRightOf="@+id/ll_left"
                 android:gravity="center_horizontal"
-                android:orientation="vertical" >
+                android:orientation="vertical">
 
                 <LinearLayout
-                    android:layout_centerInParent="true"
-                    android:orientation="vertical"
-                    android:gravity="center_horizontal"
                     android:layout_width="match_parent"
-                    android:layout_height="match_parent">
+                    android:layout_height="match_parent"
+                    android:layout_centerInParent="true"
+                    android:gravity="center_horizontal"
+                    android:orientation="vertical">
 
                     <ImageView
                         android:id="@+id/but_top"
-                        android:layout_width="60dp"
-                        android:layout_height="60dp"
+                        android:layout_width="54dp"
+                        android:layout_height="54dp"
                         android:layout_margin="8dp"
                         android:background="@drawable/icon_up"
                         android:onClick="clickTop" />
 
                     <ImageView
                         android:id="@+id/but_center"
-                        android:layout_width="60dp"
-                        android:layout_height="60dp"
+                        android:layout_width="54dp"
+                        android:layout_height="54dp"
                         android:layout_gravity="center"
                         android:layout_marginBottom="8dp"
                         android:layout_marginTop="8dp"
                         android:background="@drawable/laser_beam"
                         android:visibility="gone" />
 
-                    <veg.mediaplayer.sdk.MediaPlayer
-                        android:id="@+id/playerView"
-                        android:layout_width="fill_parent"
-                        android:layout_height="fill_parent"
-                        android:layout_gravity="center"
-                        android:layout_weight="1.04" />
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_centerInParent="true"
+                        android:layout_toRightOf="@+id/ll_left"
+                        android:background="@color/black"
+                        android:gravity="center_horizontal">
+
+                        <veg.mediaplayer.sdk.MediaPlayer
+                            android:id="@+id/playerView"
+                            android:layout_width="fill_parent"
+                            android:layout_height="fill_parent"
+                            android:layout_gravity="center"
+                            android:layout_weight="1.04" />
+                    </LinearLayout>
+
 
                     <ImageView
-                        android:layout_alignParentBottom="true"
                         android:id="@+id/but_down"
-                        android:layout_width="60dp"
-                        android:layout_height="60dp"
-                        android:layout_margin="8dp"
+                        android:layout_width="54dp"
+                        android:layout_height="54dp"
+                        android:layout_alignParentBottom="true"
                         android:background="@drawable/icon_down"
                         android:onClick="clickDown" />
                 </LinearLayout>
@@ -155,33 +165,33 @@
 
             <LinearLayout
                 android:id="@+id/ll_right_rl"
-                android:layout_alignParentRight="true"
-                android:layout_gravity="right"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_gravity="right"
                 android:gravity="center_horizontal"
-                android:orientation="vertical" >
+                android:orientation="vertical">
 
                 <ImageView
                     android:id="@+id/but_right_top"
-                    android:layout_width="60dp"
-                    android:layout_height="60dp"
+                    android:layout_width="54dp"
+                    android:layout_height="54dp"
                     android:layout_margin="8dp"
                     android:background="@drawable/icon_up_right"
                     android:onClick="clickRightTop" />
 
                 <ImageView
                     android:id="@+id/but_right"
-                    android:layout_width="60dp"
-                    android:layout_height="60dp"
+                    android:layout_width="54dp"
+                    android:layout_height="54dp"
                     android:layout_margin="8dp"
                     android:background="@drawable/icon_right_tokyo"
                     android:onClick="clickRight" />
 
                 <ImageView
                     android:id="@+id/but_down_right"
-                    android:layout_width="60dp"
-                    android:layout_height="60dp"
+                    android:layout_width="54dp"
+                    android:layout_height="54dp"
                     android:layout_margin="8dp"
                     android:background="@drawable/left_rotate"
                     android:onClick="clickDownRight" />

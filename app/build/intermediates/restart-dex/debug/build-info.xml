@@ -5,9 +5,9 @@
     density="xhdpi"
     format="8"
     plugin-version="2.2.3"
-    timestamp="8236359741498"
-    token="-5494803545753715563"
-    verifier="FULL_BUILD_REQUESTED" >
+    timestamp="11911156259262"
+    token="6637032995406000981"
+    verifier="COMPATIBLE" >
 
     <task
         name="javac"
@@ -23,15 +23,22 @@
         duration="0" />
 
     <artifact
-        location="/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/outputs/apk/app-debug.apk"
-        type="MAIN" />
+        location="/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
+        type="RESOURCES" />
 
     <build
-        timestamp="349453491807099"
-        verifier="MANIFEST_FILE_CHANGE" >
+        timestamp="11748331827744"
+        verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/outputs/apk/app-debug.apk"
             type="MAIN" />
+    </build>
+    <build
+        timestamp="11911156259262"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
+            type="RESOURCES" />
     </build>
 
 </instant-run>

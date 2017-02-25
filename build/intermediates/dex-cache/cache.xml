@@ -7,7 +7,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="fe29828895e78195b36e3e5732f55b04249aaa61">
+        sha1="ceb6e764758354e5c794e89bce75a8cd572a8223">
         <dex dex="/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_755ee905dd051ce737569f4bd218fe533fdb6909/classes.dex" />
     </item>
     <item
@@ -25,7 +25,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="bde664ca0e899bbc5eeb935e5a57bca4a92d19d0">
+        sha1="f8e50ced7031e7125f4c749d81a39175e7067b71">
         <dex dex="/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_99b394a6f68098cae429b1a55db7ec22ebd344f2/classes.dex" />
     </item>
     <item

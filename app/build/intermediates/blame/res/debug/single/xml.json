@@ -2,9 +2,5 @@
     {
         "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/xml/preferences.xml",
         "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/src/main/res/xml/preferences.xml"
-    },
-    {
-        "merged": "/Users/doba/Documents/Programming/Freelancer/RTSPplayer/app/build/intermediates/res/merged/debug/xml/preferences.xml",
-        "source": "/Users/doba/Documents/Programming/Freelancer/RTSPplayer/app/src/main/res/xml/preferences.xml"
     }
 ]

@@ -1,9 +1,5 @@
 [
     {
-        "merged": "/Users/doba/Documents/Programming/Freelancer/RTSPplayer/app/build/intermediates/res/merged/debug/color-land/tab_text_color.xml",
-        "source": "/Users/doba/Documents/Programming/Freelancer/RTSPplayer/app/src/main/res/color-land/tab_text_color.xml"
-    },
-    {
         "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/color-land/tab_text_color.xml",
         "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/src/main/res/color-land/tab_text_color.xml"
     }

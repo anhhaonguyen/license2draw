@@ -1,13 +1,5 @@
 [
     {
-        "merged": "/Users/doba/Documents/Programming/Freelancer/RTSPplayer/app/build/intermediates/res/merged/debug/layout-normal-port-xhdpi-v4/activity_main.xml",
-        "source": "/Users/doba/Documents/Programming/Freelancer/RTSPplayer/app/src/main/res/layout-normal-port-xhdpi/activity_main.xml"
-    },
-    {
-        "merged": "/Users/doba/Documents/Programming/Freelancer/RTSPplayer/app/build/intermediates/res/merged/debug/layout-normal-port-xhdpi-v4/player_control_normal_port_xhdpi.xml",
-        "source": "/Users/doba/Documents/Programming/Freelancer/RTSPplayer/app/src/main/res/layout-normal-port-xhdpi/player_control_normal_port_xhdpi.xml"
-    },
-    {
         "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/layout-normal-port-xhdpi-v4/player_control_normal_port_xhdpi.xml",
         "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/src/main/res/layout-normal-port-xhdpi/player_control_normal_port_xhdpi.xml"
     }

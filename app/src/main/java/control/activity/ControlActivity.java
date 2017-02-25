@@ -23,9 +23,10 @@ import java.net.URI;
 
 import control.socket.WebSocketClient;
 import control.util.AppConstant;
+import veg.mediaplayer.sdk.MediaPlayer;
 
 
-public class ControlActivity extends FragmentActivity implements
+public class ControlActivity extends BasePlayerActivity implements
 		OnClickListener, OnTouchListener, Notification {
 
 	private static final String TAG = "ControlActivity";
@@ -45,6 +46,9 @@ public class ControlActivity extends FragmentActivity implements
 	public void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_control);
+
+		player = (MediaPlayer) findViewById(R.id.playerView);
+		preparePlayer();
 
 		getActionBar().hide();
 		final DisplayMetrics displayMetrics = new DisplayMetrics();
@@ -349,6 +353,8 @@ public class ControlActivity extends FragmentActivity implements
 		
 		client.connect();
 		laserClient.connect();
+
+		onStartStream();
 		
 //		SocketClient.getInstances().setInfo("abc", "123123", robot);
 //		SocketClient.getInstances().connect(new Notification() {

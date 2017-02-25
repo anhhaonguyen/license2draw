@@ -2,13 +2,5 @@
     {
         "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/layout-large-land-hdpi-v4/player_control_large_land_hdpi.xml",
         "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/src/main/res/layout-large-land-hdpi/player_control_large_land_hdpi.xml"
-    },
-    {
-        "merged": "/Users/doba/Documents/Programming/Freelancer/RTSPplayer/app/build/intermediates/res/merged/debug/layout-large-land-hdpi-v4/player_control_large_land_hdpi.xml",
-        "source": "/Users/doba/Documents/Programming/Freelancer/RTSPplayer/app/src/main/res/layout-large-land-hdpi/player_control_large_land_hdpi.xml"
-    },
-    {
-        "merged": "/Users/doba/Documents/Programming/Freelancer/RTSPplayer/app/build/intermediates/res/merged/debug/layout-large-land-hdpi-v4/activity_main.xml",
-        "source": "/Users/doba/Documents/Programming/Freelancer/RTSPplayer/app/src/main/res/layout-large-land-hdpi/activity_main.xml"
     }
 ]

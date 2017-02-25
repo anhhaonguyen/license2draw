@@ -4,76 +4,12 @@
         "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/src/main/res/drawable-mdpi/player_next_mdpi_scaled.xml"
     },
     {
-        "merged": "/Users/doba/Documents/Programming/Freelancer/RTSPplayer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/player_screen_realsize_mdpi_scaled.xml",
-        "source": "/Users/doba/Documents/Programming/Freelancer/RTSPplayer/app/src/main/res/drawable-mdpi/player_screen_realsize_mdpi_scaled.xml"
-    },
-    {
-        "merged": "/Users/doba/Documents/Programming/Freelancer/RTSPplayer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/player_screen_aspect_mdpi_scaled.xml",
-        "source": "/Users/doba/Documents/Programming/Freelancer/RTSPplayer/app/src/main/res/drawable-mdpi/player_screen_aspect_mdpi_scaled.xml"
-    },
-    {
-        "merged": "/Users/doba/Documents/Programming/Freelancer/RTSPplayer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/player_screen_crop_mdpi_scaled.xml",
-        "source": "/Users/doba/Documents/Programming/Freelancer/RTSPplayer/app/src/main/res/drawable-mdpi/player_screen_crop_mdpi_scaled.xml"
-    },
-    {
         "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/player_lock_mdpi_scaled.xml",
         "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/src/main/res/drawable-mdpi/player_lock_mdpi_scaled.xml"
     },
     {
-        "merged": "/Users/doba/Documents/Programming/Freelancer/RTSPplayer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/player_screen_zoom_mdpi_scaled.xml",
-        "source": "/Users/doba/Documents/Programming/Freelancer/RTSPplayer/app/src/main/res/drawable-mdpi/player_screen_zoom_mdpi_scaled.xml"
-    },
-    {
-        "merged": "/Users/doba/Documents/Programming/Freelancer/RTSPplayer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/player_screen_full_mdpi_scaled.xml",
-        "source": "/Users/doba/Documents/Programming/Freelancer/RTSPplayer/app/src/main/res/drawable-mdpi/player_screen_full_mdpi_scaled.xml"
-    },
-    {
         "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/player_play_mdpi_scaled.xml",
         "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/src/main/res/drawable-mdpi/player_play_mdpi_scaled.xml"
-    },
-    {
-        "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/player_screen_crop_mdpi_scaled.xml",
-        "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/src/main/res/drawable-mdpi/player_screen_crop_mdpi_scaled.xml"
-    },
-    {
-        "merged": "/Users/doba/Documents/Programming/Freelancer/RTSPplayer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/player_pause_mdpi_scaled.xml",
-        "source": "/Users/doba/Documents/Programming/Freelancer/RTSPplayer/app/src/main/res/drawable-mdpi/player_pause_mdpi_scaled.xml"
-    },
-    {
-        "merged": "/Users/doba/Documents/Programming/Freelancer/RTSPplayer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/player_play_mdpi_scaled.xml",
-        "source": "/Users/doba/Documents/Programming/Freelancer/RTSPplayer/app/src/main/res/drawable-mdpi/player_play_mdpi_scaled.xml"
-    },
-    {
-        "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/player_screen_stretch_mdpi_scaled.xml",
-        "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/src/main/res/drawable-mdpi/player_screen_stretch_mdpi_scaled.xml"
-    },
-    {
-        "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/player_screen_full_mdpi_scaled.xml",
-        "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/src/main/res/drawable-mdpi/player_screen_full_mdpi_scaled.xml"
-    },
-    {
-        "merged": "/Users/doba/Documents/Programming/Freelancer/RTSPplayer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/player_previous_mdpi_scaled.xml",
-        "source": "/Users/doba/Documents/Programming/Freelancer/RTSPplayer/app/src/main/res/drawable-mdpi/player_previous_mdpi_scaled.xml"
-    },
-    {
-        "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/player_screen_aspect_mdpi_scaled.xml",
-        "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/src/main/res/drawable-mdpi/player_screen_aspect_mdpi_scaled.xml"
-    },
-    {
-        "merged": "/Users/doba/Documents/Programming/Freelancer/RTSPplayer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/player_screen_compact_mdpi_scaled.xml",
-        "source": "/Users/doba/Documents/Programming/Freelancer/RTSPplayer/app/src/main/res/drawable-mdpi/player_screen_compact_mdpi_scaled.xml"
-    },
-    {
-        "merged": "/Users/doba/Documents/Programming/Freelancer/RTSPplayer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/player_screen_stretch_mdpi_scaled.xml",
-        "source": "/Users/doba/Documents/Programming/Freelancer/RTSPplayer/app/src/main/res/drawable-mdpi/player_screen_stretch_mdpi_scaled.xml"
-    },
-    {
-        "merged": "/Users/doba/Documents/Programming/Freelancer/RTSPplayer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/player_next_mdpi_scaled.xml",
-        "source": "/Users/doba/Documents/Programming/Freelancer/RTSPplayer/app/src/main/res/drawable-mdpi/player_next_mdpi_scaled.xml"
-    },
-    {
-        "merged": "/Users/doba/Documents/Programming/Freelancer/RTSPplayer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/player_lock_mdpi_scaled.xml",
-        "source": "/Users/doba/Documents/Programming/Freelancer/RTSPplayer/app/src/main/res/drawable-mdpi/player_lock_mdpi_scaled.xml"
     },
     {
         "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/player_screen_zoom_mdpi_scaled.xml",
@@ -84,12 +20,28 @@
         "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/src/main/res/drawable-mdpi/player_pause_mdpi_scaled.xml"
     },
     {
+        "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/player_screen_crop_mdpi_scaled.xml",
+        "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/src/main/res/drawable-mdpi/player_screen_crop_mdpi_scaled.xml"
+    },
+    {
         "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/player_screen_compact_mdpi_scaled.xml",
         "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/src/main/res/drawable-mdpi/player_screen_compact_mdpi_scaled.xml"
     },
     {
         "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/player_screen_realsize_mdpi_scaled.xml",
         "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/src/main/res/drawable-mdpi/player_screen_realsize_mdpi_scaled.xml"
+    },
+    {
+        "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/player_screen_stretch_mdpi_scaled.xml",
+        "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/src/main/res/drawable-mdpi/player_screen_stretch_mdpi_scaled.xml"
+    },
+    {
+        "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/player_screen_full_mdpi_scaled.xml",
+        "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/src/main/res/drawable-mdpi/player_screen_full_mdpi_scaled.xml"
+    },
+    {
+        "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/player_screen_aspect_mdpi_scaled.xml",
+        "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/src/main/res/drawable-mdpi/player_screen_aspect_mdpi_scaled.xml"
     },
     {
         "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/player_previous_mdpi_scaled.xml",

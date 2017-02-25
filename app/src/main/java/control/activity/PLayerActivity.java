@@ -45,198 +45,9 @@ import veg.mediaplayer.sdk.MediaPlayerConfig;
 public class PLayerActivity extends FragmentActivity implements OnClickListener, MediaPlayer.MediaPlayerCallback {
     private static final String TAG = "MediaPlayerTest";
     private Button btnConnect;
-    private StatusProgressTask mProgressTask = null;
 
     private boolean playing = false;
     private MediaPlayer player = null;
-    private PLayerActivity mthis = null;
-
-    private TextView playerHwStatus = null;
-
-    private MulticastLock multicastLock = null;
-
-    private enum PlayerStates {
-        Busy,
-        ReadyForUse
-    }
-
-    private enum PlayerConnectType {
-        Normal,
-        Reconnecting
-    }
-
-    private PlayerStates player_state = PlayerStates.ReadyForUse;
-    private PlayerConnectType reconnect_type = PlayerConnectType.Normal;
-    private int mOldMsg = 0;
-
-    private Handler handler = new Handler() {
-        String strText = "Connecting";
-        String sText;
-        String sCode;
-
-        @Override
-        public void handleMessage(Message msg) {
-            PlayerNotifyCodes status = (PlayerNotifyCodes) msg.obj;
-            switch (status) {
-                case CP_CONNECT_STARTING:
-                    if (reconnect_type == PlayerConnectType.Reconnecting)
-                        strText = "Reconnecting";
-                    else
-                        strText = "Connecting";
-
-                    startProgressTask(strText);
-
-                    player_state = PlayerStates.Busy;
-                    showStatusView();
-
-                    reconnect_type = PlayerConnectType.Normal;
-                    setHideControls();
-                    break;
-
-                case PLP_BUILD_SUCCESSFUL:
-                    Log.i(TAG, "=Status PLP_BUILD_SUCCESSFUL: Response sText=" + sText + " sCode=" + sCode);
-                    break;
-
-                case VRP_NEED_SURFACE:
-                    player_state = PlayerStates.Busy;
-                    showVideoView();
-                    break;
-
-                case PLP_PLAY_SUCCESSFUL:
-                    player_state = PlayerStates.ReadyForUse;
-                    stopProgressTask();
-//	    			playerStatusText.setText("");
-                    setTitle(R.string.app_name);
-                    break;
-
-                case PLP_CLOSE_STARTING:
-                    player_state = PlayerStates.Busy;
-                    stopProgressTask();
-//	    			playerStatusText.setText("Disconnected");
-                    showStatusView();
-                    setUIDisconnected();
-                    break;
-
-                case PLP_CLOSE_SUCCESSFUL:
-                    player_state = PlayerStates.ReadyForUse;
-                    stopProgressTask();
-//	    			playerStatusText.setText("Disconnected");
-                    showStatusView();
-                    System.gc();
-                    setShowControls();
-                    setUIDisconnected();
-                    break;
-
-                case PLP_CLOSE_FAILED:
-                    player_state = PlayerStates.ReadyForUse;
-                    stopProgressTask();
-//	    			playerStatusText.setText("Disconnected");
-                    showStatusView();
-                    setShowControls();
-                    setUIDisconnected();
-                    break;
-
-                case CP_CONNECT_FAILED:
-                    player_state = PlayerStates.ReadyForUse;
-                    stopProgressTask();
-//	    			playerStatusText.setText("Disconnected");
-                    showStatusView();
-                    setShowControls();
-                    setUIDisconnected();
-                    break;
-
-                case PLP_BUILD_FAILED:
-//	        		sText = player.getPropString(PlayerProperties.PP_PROPERTY_PLP_RESPONSE_TEXT);
-//	        		sCode = player.getPropString(PlayerProperties.PP_PROPERTY_PLP_RESPONSE_CODE);
-                    Log.i(TAG, "=Status PLP_BUILD_FAILED: Response sText=" + sText + " sCode=" + sCode);
-
-                    player_state = PlayerStates.ReadyForUse;
-                    stopProgressTask();
-//	    			playerStatusText.setText("Disconnected");
-                    showStatusView();
-                    setShowControls();
-                    setUIDisconnected();
-                    break;
-
-                case PLP_PLAY_FAILED:
-                    player_state = PlayerStates.ReadyForUse;
-                    stopProgressTask();
-//	    			playerStatusText.setText("Disconnected");
-                    showStatusView();
-                    setShowControls();
-                    setUIDisconnected();
-                    break;
-
-                case PLP_ERROR:
-                    player_state = PlayerStates.ReadyForUse;
-                    stopProgressTask();
-//	    			playerStatusText.setText("Disconnected");
-                    showStatusView();
-                    setShowControls();
-                    setUIDisconnected();
-                    break;
-
-                case CP_INTERRUPTED:
-                    player_state = PlayerStates.ReadyForUse;
-                    stopProgressTask();
-//	    			playerStatusText.setText("Disconnected");
-                    showStatusView();
-                    setShowControls();
-                    setUIDisconnected();
-                    break;
-                case CP_RECORD_STARTED:
-                    Log.v(TAG, "=handleMessage CP_RECORD_STARTED");
-                {
-                    String sFile = player.RecordGetFileName(1);
-                    Toast.makeText(getApplicationContext(), "Record Started. File " + sFile, Toast.LENGTH_LONG).show();
-                }
-                break;
-
-                case CP_RECORD_STOPPED:
-                    Log.v(TAG, "=handleMessage CP_RECORD_STOPPED");
-                {
-                    String sFile = player.RecordGetFileName(0);
-                    Toast.makeText(getApplicationContext(), "Record Stopped. File " + sFile, Toast.LENGTH_LONG).show();
-                }
-                break;
-
-                case CP_STOPPED:
-                case VDP_STOPPED:
-                case VRP_STOPPED:
-                case ADP_STOPPED:
-                case ARP_STOPPED:
-                    if (player_state != PlayerStates.Busy) {
-                        stopProgressTask();
-                        player_state = PlayerStates.Busy;
-                        player.Close();
-//	        			playerStatusText.setText("Disconnected");
-                        showStatusView();
-                        player_state = PlayerStates.ReadyForUse;
-                        setShowControls();
-                        setUIDisconnected();
-                    }
-                    break;
-
-                case CP_ERROR_DISCONNECTED:
-                    if (player_state != PlayerStates.Busy) {
-                        player_state = PlayerStates.Busy;
-                        player.Close();
-
-//	        			playerStatusText.setText("Disconnected");
-                        showStatusView();
-                        player_state = PlayerStates.ReadyForUse;
-                        setUIDisconnected();
-
-                        Toast.makeText(getApplicationContext(), "Demo Version!",
-                                Toast.LENGTH_SHORT).show();
-
-                    }
-                    break;
-                default:
-                    player_state = PlayerStates.Busy;
-            }
-        }
-    };
 
     // callback from Native Player
     @Override
@@ -251,17 +62,12 @@ public class PLayerActivity extends FragmentActivity implements OnClickListener,
     public int Status(int arg) {
 
         PlayerNotifyCodes status = PlayerNotifyCodes.forValue(arg);
-        if (handler == null || status == null)
-            return 0;
 
         Log.e(TAG, "Form Native Player status: " + arg);
         switch (PlayerNotifyCodes.forValue(arg)) {
             default:
                 Message msg = new Message();
                 msg.obj = status;
-                handler.removeMessages(mOldMsg);
-                mOldMsg = msg.what;
-                handler.sendMessage(msg);
         }
 
         return 0;
@@ -276,21 +82,11 @@ public class PLayerActivity extends FragmentActivity implements OnClickListener,
 
         getActionBar().hide();
 
-        WifiManager wifi = (WifiManager) getSystemService(Context.WIFI_SERVICE);
-        multicastLock = wifi.createMulticastLock("multicastLock");
-        multicastLock.setReferenceCounted(true);
-        multicastLock.acquire();
-
-        getWindow().requestFeature(Window.FEATURE_PROGRESS);
-        getWindow().setFeatureInt(Window.FEATURE_PROGRESS, Window.PROGRESS_VISIBILITY_ON);
-
         setContentView(R.layout.activity_player);
-        mthis = this;
-
         SharedSettings.getInstance(this).loadPrefSettings();
         SharedSettings.getInstance().savePrefSettings();
 
-        playerHwStatus = (TextView) findViewById(R.id.playerHwStatus);
+//        playerHwStatus = (TextView) findViewById(R.id.playerHwStatus);
 
         player = (MediaPlayer) findViewById(R.id.playerView);
 
@@ -333,7 +129,6 @@ public class PLayerActivity extends FragmentActivity implements OnClickListener,
     }
 
     public void onClick(View v) {
-        SharedSettings.getInstance().loadPrefSettings();
         if (player != null) {
             player.getConfig().setConnectionUrl("rtsp://admin:123456@mamcafe.quickddns.com:554/cam/realmonitor?channel=1&subtype=0");
             if (player.getConfig().getConnectionUrl().isEmpty())
@@ -370,7 +165,7 @@ public class PLayerActivity extends FragmentActivity implements OnClickListener,
                 conf.setRecordSplitTime(0);
                 conf.setRecordSplitSize(0);
 
-                player.Open(conf, mthis);
+                player.Open(conf, this);
                 btnConnect.setText("Disconnect");
 
                 playing = true;
@@ -438,10 +233,6 @@ public class PLayerActivity extends FragmentActivity implements OnClickListener,
         stopProgressTask();
         System.gc();
 
-        if (multicastLock != null) {
-            multicastLock.release();
-            multicastLock = null;
-        }
         super.onDestroy();
     }
 
@@ -463,13 +254,13 @@ public class PLayerActivity extends FragmentActivity implements OnClickListener,
 
     private void showStatusView() {
         player.setVisibility(View.INVISIBLE);
-        playerHwStatus.setVisibility(View.INVISIBLE);
+//        playerHwStatus.setVisibility(View.INVISIBLE);
 
     }
 
     private void showVideoView() {
         player.setVisibility(View.VISIBLE);
-        playerHwStatus.setVisibility(View.VISIBLE);
+//        playerHwStatus.setVisibility(View.VISIBLE);
 
         SurfaceHolder sfhTrackHolder = player.getSurfaceView().getHolder();
         sfhTrackHolder.setFormat(PixelFormat.TRANSPARENT);
@@ -479,19 +270,10 @@ public class PLayerActivity extends FragmentActivity implements OnClickListener,
 
     private void startProgressTask(String text) {
         stopProgressTask();
-
-        mProgressTask = new StatusProgressTask(text);
-        //mProgressTask.execute(text);
-        executeAsyncTask(mProgressTask, text);
     }
 
     private void stopProgressTask() {
         setTitle(R.string.app_name);
-
-        if (mProgressTask != null) {
-            mProgressTask.stopTask();
-            mProgressTask.cancel(true);
-        }
     }
 
     private class StatusProgressTask extends AsyncTask<String, Void, Boolean> {
@@ -574,7 +356,6 @@ public class PLayerActivity extends FragmentActivity implements OnClickListener,
         @Override
         protected void onPostExecute(Boolean result) {
             super.onPostExecute(result);
-            mProgressTask = null;
         }
 
         @Override
