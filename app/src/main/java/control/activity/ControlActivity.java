@@ -22,6 +22,7 @@ import org.rtspplayer.sample.R;
 import java.net.URI;
 
 import control.socket.WebSocketClient;
+import control.util.AppConstant;
 
 
 public class ControlActivity extends FragmentActivity implements
@@ -44,6 +45,8 @@ public class ControlActivity extends FragmentActivity implements
 	public void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_control);
+
+		getActionBar().hide();
 		final DisplayMetrics displayMetrics = new DisplayMetrics();
 		getWindowManager().getDefaultDisplay().getMetrics(displayMetrics);
 		final int height = displayMetrics.heightPixels;
@@ -63,8 +66,8 @@ public class ControlActivity extends FragmentActivity implements
 		robot = getIntent().getExtras().getString("robot");
 		laser = getIntent().getExtras().getString("laser");
 		
-		String robotURL = "ws://188.166.225.139:" + robot;
-		String laserURL = "ws://188.166.225.139:" + laser;
+		String robotURL = AppConstant.ROBOT_URL + robot;
+		String laserURL = AppConstant.LASER_URL + laser;
 		
 		client = new WebSocketClient(URI.create(robotURL), new WebSocketClient.Listener() {
 			

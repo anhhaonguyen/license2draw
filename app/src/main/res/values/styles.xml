@@ -12,12 +12,29 @@
         -->
     </style>
 
-    <!-- Application theme. -->
+    <!--&lt;!&ndash; Application theme. &ndash;&gt;-->
     <style name="AppTheme" parent="AppBaseTheme">
-        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
-        
+    <!--&lt;!&ndash; All customizations that are NOT specific to a particular API-level can go here. &ndash;&gt;-->
+    <!---->
     </style>
-    
+
+    <!--<style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">-->
+        <!--<item name="windowNoTitle">true</item>-->
+        <!--<item name="android:textColorSecondary">@android:color/darker_gray</item>-->
+        <!--<item name="android:textAllCaps">false</item>-->
+        <!--<item name="android:textColor">@color/black</item>-->
+        <!--<item name="android:background">@android:color/transparent</item>-->
+        <!--<item name="colorPrimary">@color/colorPrimary</item>-->
+        <!--<item name="colorPrimaryDark">@color/colorPrimaryDark</item>-->
+        <!--<item name="colorAccent">@color/colorAccent</item>-->
+        <!--<item name="actionMenuTextColor">@color/white</item>-->
+        <!--<item name="android:listPreferredItemHeightSmall">10dp</item>-->
+        <!--<item name="android:listPreferredItemPaddingLeft">5dp</item>-->
+        <!--<item name="android:listPreferredItemPaddingRight">5dp</item>-->
+
+    <!--</style>-->
+
+
     <style name="DialogCustomThemeM" parent="AppBaseTheme">
         <item name="android:textColor">#CD0000</item>
     </style>
@@ -25,8 +42,8 @@
     <style name="AddChannelDialogTheme" parent="AppBaseTheme">
         <!-- No backgrounds, titles or window float -->
         <item name="android:windowIsTranslucent">true</item>
-        <item name="android:windowIsFloating">false</item>      
+        <item name="android:windowIsFloating">false</item>
     </style>
-    
-    
+
+
 </resources>

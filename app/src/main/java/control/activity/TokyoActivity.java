@@ -5,6 +5,7 @@ import android.app.ProgressDialog;
 import android.content.DialogInterface;
 import android.content.Intent;
 import android.os.Bundle;
+import android.support.v4.app.FragmentActivity;
 import android.util.Log;
 import android.view.MotionEvent;
 import android.view.View;
@@ -17,7 +18,7 @@ import org.rtspplayer.sample.R;
 import control.socket.WebSocketClient;
 
 
-public class TokyoActivity  extends Activity implements OnClickListener {
+public class TokyoActivity  extends FragmentActivity implements OnClickListener {
 
 	private static final String TAG  = "TokyoActivity";
 	private WebSocketClient client;
@@ -36,6 +37,8 @@ public class TokyoActivity  extends Activity implements OnClickListener {
 	public void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_tokyo);
+
+		getActionBar().hide();
 		
 		Log.e(TAG, "onCreate "+0);
 		

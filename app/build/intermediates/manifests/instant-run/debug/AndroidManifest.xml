@@ -28,7 +28,9 @@
         android:largeHeap="true"
         android:logo="@drawable/app"
         android:theme="@style/AppTheme" >
-        <activity android:name="control.activity.L2DSplashActivity" >
+        <activity
+            android:name="control.activity.L2DSplashActivity"
+            android:screenOrientation="landscape" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -38,21 +40,32 @@
         <activity
             android:name="control.activity.PreferencesActivity"
             android:noHistory="true"
+            android:screenOrientation="landscape"
             android:theme="@android:style/Theme.Black.NoTitleBar" >
 
             <!-- android:theme="@android:style/Theme.Black.NoTitleBar" -->
         </activity>
-        <activity android:name="control.activity.MainActivity" />
+        <activity
+            android:name="control.activity.MainActivity"
+            android:screenOrientation="landscape" />
         <activity
             android:name="org.rtspplayer.sample.activity.PreferencesActivity"
             android:noHistory="true" >
 
             <!-- android:theme="@android:style/Theme.Black.NoTitleBar" -->
         </activity>
-        <activity android:name="control.activity.ControlActivity" />
-        <activity android:name="control.activity.TokyoActivity" />
-        <activity android:name="control.activity.LoginActivity" />
-        <activity android:name="control.activity.LaserActivity" />
+        <activity
+            android:name="control.activity.ControlActivity"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name="control.activity.TokyoActivity"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name="control.activity.LoginActivity"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name="control.activity.LaserActivity"
+            android:screenOrientation="landscape" />
     </application>
 
 </manifest>

@@ -7,8 +7,17 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="3995c09fd23b608b59641ccc0b5f3b01c587e9f7">
+        sha1="fe29828895e78195b36e3e5732f55b04249aaa61">
         <dex dex="/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_755ee905dd051ce737569f4bd218fe533fdb6909/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28">
+        <dex dex="/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-19.1.0_85efaaecf5ad220072638cf44d041513ff7bdfe2/classes.dex" />
     </item>
     <item
         is-multidex="true"

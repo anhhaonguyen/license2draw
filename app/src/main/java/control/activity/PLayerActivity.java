@@ -17,6 +17,7 @@ import android.os.AsyncTask;
 import android.os.Bundle;
 import android.os.Handler;
 import android.os.Message;
+import android.support.v4.app.FragmentActivity;
 import android.util.Log;
 import android.view.MotionEvent;
 import android.view.SurfaceHolder;
@@ -41,7 +42,7 @@ import veg.mediaplayer.sdk.MediaPlayer.PlayerNotifyCodes;
 import veg.mediaplayer.sdk.MediaPlayer.PlayerState;
 import veg.mediaplayer.sdk.MediaPlayerConfig;
 
-public class PLayerActivity extends Activity implements OnClickListener, MediaPlayer.MediaPlayerCallback {
+public class PLayerActivity extends FragmentActivity implements OnClickListener, MediaPlayer.MediaPlayerCallback {
     private static final String TAG = "MediaPlayerTest";
     private Button btnConnect;
     private StatusProgressTask mProgressTask = null;
@@ -272,6 +273,8 @@ public class PLayerActivity extends Activity implements OnClickListener, MediaPl
 
         setTitle(R.string.app_name);
         super.onCreate(savedInstanceState);
+
+        getActionBar().hide();
 
         WifiManager wifi = (WifiManager) getSystemService(Context.WIFI_SERVICE);
         multicastLock = wifi.createMulticastLock("multicastLock");

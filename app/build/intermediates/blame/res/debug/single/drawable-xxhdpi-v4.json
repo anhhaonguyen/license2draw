@@ -48,12 +48,12 @@
         "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/src/main/res/drawable-xxhdpi/player_screen_crop_xxhdpi_scaled.xml"
     },
     {
-        "merged": "/Users/doba/Documents/Programming/Freelancer/RTSPplayer/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/player_previous_xxhdpi_scaled.xml",
-        "source": "/Users/doba/Documents/Programming/Freelancer/RTSPplayer/app/src/main/res/drawable-xxhdpi/player_previous_xxhdpi_scaled.xml"
-    },
-    {
         "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/player_pause_xxhdpi_scaled.xml",
         "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/src/main/res/drawable-xxhdpi/player_pause_xxhdpi_scaled.xml"
+    },
+    {
+        "merged": "/Users/doba/Documents/Programming/Freelancer/RTSPplayer/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/player_previous_xxhdpi_scaled.xml",
+        "source": "/Users/doba/Documents/Programming/Freelancer/RTSPplayer/app/src/main/res/drawable-xxhdpi/player_previous_xxhdpi_scaled.xml"
     },
     {
         "merged": "/Users/doba/Documents/Programming/Freelancer/RTSPplayer/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/player_screen_full_xxhdpi_scaled.xml",

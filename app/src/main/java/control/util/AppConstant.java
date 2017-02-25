@@ -6,5 +6,6 @@ package control.util;
 
 public class AppConstant {
 
-    private static final String
+    public static final String ROBOT_URL = "ws://139.162.47.39:";//ws://139.162.47.39
+    public static final String LASER_URL = "ws://139.162.47.39:";
 }

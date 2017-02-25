@@ -2,6 +2,7 @@ package control.activity;
 import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
+import android.support.v4.app.FragmentActivity;
 import android.util.Log;
 import android.view.View;
 import android.view.View.OnClickListener;
@@ -11,7 +12,7 @@ import android.widget.VideoView;
 import org.rtspplayer.sample.R;
 
 
-public class MainActivity  extends Activity implements OnClickListener {
+public class MainActivity  extends FragmentActivity implements OnClickListener {
 
 	private static final String TAG  = "MainACtivity";
 	
@@ -19,6 +20,8 @@ public class MainActivity  extends Activity implements OnClickListener {
 	public void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
+
+		getActionBar().hide();
 		
 		TextView but1 = (TextView)findViewById(R.id.but_losageles);
 		TextView but2 = (TextView)findViewById(R.id.but_tokyo);

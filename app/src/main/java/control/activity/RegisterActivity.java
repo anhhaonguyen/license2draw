@@ -7,6 +7,7 @@ import android.content.DialogInterface;
 import android.content.Intent;
 import android.os.AsyncTask;
 import android.os.Bundle;
+import android.support.v4.app.FragmentActivity;
 import android.util.Log;
 import android.view.View;
 import android.view.View.OnClickListener;
@@ -38,7 +39,7 @@ import java.io.UnsupportedEncodingException;
 import java.util.ArrayList;
 import java.util.List;
 
-public class RegisterActivity extends Activity implements OnClickListener {
+public class RegisterActivity extends FragmentActivity implements OnClickListener {
 
 	private static final String TAG = "LoginActivity";
 	
@@ -50,6 +51,8 @@ public class RegisterActivity extends Activity implements OnClickListener {
 	public void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_register);
+
+		getActionBar().hide();
 		
 		user = (EditText)findViewById(R.id.edt_id);
 		pass = (EditText)findViewById(R.id.edt_pass);

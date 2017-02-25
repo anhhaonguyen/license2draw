@@ -5,6 +5,12 @@
     <color name="semitransparent_black">#99000000</color>
     <color name="semitransparent_gray">#802a2a2a</color>
 
+    <color name="colorPrimary">#E82426</color>
+    <!--<color name="colorPrimary">#E8dd26</color>-->
+    <color name="colorPrimaryDark">#bf3b3b</color>
+    <!--<color name="colorAccent">#E82426</color>-->
+    <color name="colorAccent">#912424</color>
+
     <color name="white">#FFFFFF</color>
     <color name="red">#FF0000</color>
     <color name="black">#000000</color>
