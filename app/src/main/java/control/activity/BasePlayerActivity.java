@@ -128,8 +128,8 @@ public class BasePlayerActivity extends FragmentActivity implements MediaPlayer.
 
     protected void onPause() {
         super.onPause();
-        if (player != null)
-            player.onPause();
+//        if (player != null)
+//            player.onPause();
     }
 
     @Override

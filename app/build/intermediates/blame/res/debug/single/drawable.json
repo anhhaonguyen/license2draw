@@ -40,6 +40,10 @@
         "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/src/main/res/drawable/view_state_forward.xml"
     },
     {
+        "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light.xml",
+        "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/res/drawable/common_google_signin_btn_icon_light.xml"
+    },
+    {
         "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/drawable/pl.png",
         "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/src/main/res/drawable/pl.png"
     },
@@ -128,6 +132,10 @@
         "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/src/main/res/drawable/view_state_oval.xml"
     },
     {
+        "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light_focused.xml",
+        "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/res/drawable/common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
         "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/drawable/ic_menu_archive.png",
         "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/src/main/res/drawable/ic_menu_archive.png"
     },
@@ -180,8 +188,16 @@
         "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/src/main/res/drawable/view_state_login.xml"
     },
     {
+        "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/res/drawable/common_google_signin_btn_text_dark.xml"
+    },
+    {
         "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
         "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark_focused.xml",
+        "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/res/drawable/common_google_signin_btn_text_dark_focused.xml"
     },
     {
         "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
@@ -214,6 +230,10 @@
     {
         "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/drawable/abc_textfield_searchview_holo_light.xml",
         "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/drawable/abc_textfield_searchview_holo_light.xml"
+    },
+    {
+        "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light.xml",
+        "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/res/drawable/common_google_signin_btn_text_light.xml"
     },
     {
         "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/drawable/spinner_background_ab_mystyleplayer.xml",
@@ -256,12 +276,24 @@
         "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/src/main/res/drawable/menu_stop.xml"
     },
     {
+        "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark_focused.xml",
+        "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/res/drawable/common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
         "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/drawable/abc_search_dropdown_dark.xml",
         "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/drawable/abc_search_dropdown_dark.xml"
     },
     {
         "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/drawable/preview_lefttop_32.png",
         "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/src/main/res/drawable/preview_lefttop_32.png"
+    },
+    {
+        "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light_focused.xml",
+        "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/res/drawable/common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark.xml",
+        "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/res/drawable/common_google_signin_btn_icon_dark.xml"
     },
     {
         "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/drawable/modify.png",

@@ -3,30 +3,39 @@
 
     <item
         is-multidex="true"
-        jar="/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="ceb6e764758354e5c794e89bce75a8cd572a8223">
-        <dex dex="/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_755ee905dd051ce737569f4bd218fe533fdb6909/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28">
-        <dex dex="/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-19.1.0_85efaaecf5ad220072638cf44d041513ff7bdfe2/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="f8e50ced7031e7125f4c749d81a39175e7067b71">
         <dex dex="/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_99b394a6f68098cae429b1a55db7ec22ebd344f2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-10.0.1_d1f2a854d9b9ebff4d97aa2628b75c5315709796/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-10.0.1_90c792a0ef86b5652956a81ea5a89ee71f16db0f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_9bdeb1ca198438a6923ed4c3a13aefd2b1c2e95c/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -39,12 +48,57 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/doba/Documents/IDE/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jar="/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
-        <dex dex="/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-19.1.0_0575a2eb037b8460e8477c5b9f5172f5a3cea589/classes.dex" />
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28">
+        <dex dex="/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-19.1.0_85efaaecf5ad220072638cf44d041513ff7bdfe2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.0.0_d039a5837439bcc3bd844e27b308a72b3d36afc8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44a694d4095be84c2888764b1f7256b385c030ad">
+        <dex dex="/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-10.0.1_df4248412dfc30931122120513fb84975ba3aaa2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-10.0.1_398bb76e5450999cd1c298e3f0640dbb335becee/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1b5844649ea0ef3051ba5a059d27456c0ed9d600">
+        <dex dex="/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_755ee905dd051ce737569f4bd218fe533fdb6909/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/doba/Documents/IDE/sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.0.0_d139ebbc88243612cc2ac904f91f09827ae3a15c/classes.dex" />
     </item>
 
 </items>

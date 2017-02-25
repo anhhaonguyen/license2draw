@@ -4,24 +4,24 @@
         "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/src/main/res/layout/activity_splash.xml"
     },
     {
-        "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/layout/dialog_no_preview.xml",
-        "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/src/main/res/layout/dialog_no_preview.xml"
+        "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/layout/abc_action_bar_view_list_nav_layout.xml"
     },
     {
         "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/layout/item_row_doc.xml",
         "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/src/main/res/layout/item_row_doc.xml"
     },
     {
-        "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
-        "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/layout/abc_action_bar_view_list_nav_layout.xml"
-    },
-    {
-        "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item.xml",
-        "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/layout/abc_action_mode_close_item.xml"
+        "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/layout/dialog_no_preview.xml",
+        "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/src/main/res/layout/dialog_no_preview.xml"
     },
     {
         "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/layout/activity_tokyo.xml",
         "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/src/main/res/layout/activity_tokyo.xml"
+    },
+    {
+        "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item.xml",
+        "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/layout/abc_action_mode_close_item.xml"
     },
     {
         "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/layout/history_item.xml",

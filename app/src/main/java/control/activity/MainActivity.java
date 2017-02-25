@@ -30,6 +30,8 @@ public class MainActivity  extends FragmentActivity implements OnClickListener, 
 	@Override
 	public void onLocationChanged(Location location) {
 		AppStatic.location = location;
+
+		Log.e(TAG, "onLocationChange "+location.getLongitude());
 	}
 
 	@Override

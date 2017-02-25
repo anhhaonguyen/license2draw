@@ -44,12 +44,12 @@
         "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/src/main/res/drawable-xxhdpi/laser_beam.png"
     },
     {
-        "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/drawable-xxhdpi/abc_spinner_ab_focused_holo_light.9.png",
-        "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/drawable-xxhdpi/abc_spinner_ab_focused_holo_light.9.png"
-    },
-    {
         "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/drawable-xxhdpi/icon_backward.png",
         "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/src/main/res/drawable-xxhdpi/icon_backward.png"
+    },
+    {
+        "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/drawable-xxhdpi/abc_spinner_ab_focused_holo_light.9.png",
+        "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/drawable-xxhdpi/abc_spinner_ab_focused_holo_light.9.png"
     },
     {
         "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/drawable-xxhdpi/abc_ic_search_api_holo_light.png",

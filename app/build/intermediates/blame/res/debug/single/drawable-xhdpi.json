@@ -68,28 +68,28 @@
         "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/drawable-xhdpi/abc_ab_bottom_transparent_dark_holo.9.png"
     },
     {
-        "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/drawable-xhdpi/icon_square.png",
-        "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/src/main/res/drawable-xhdpi/icon_square.png"
-    },
-    {
         "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/drawable-xhdpi/abc_ic_ab_back_holo_light.png",
         "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/drawable-xhdpi/abc_ic_ab_back_holo_light.png"
+    },
+    {
+        "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/drawable-xhdpi/icon_square.png",
+        "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/src/main/res/drawable-xhdpi/icon_square.png"
     },
     {
         "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/drawable-xhdpi/icon_joystick_press.png",
         "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/src/main/res/drawable-xhdpi/icon_joystick_press.png"
     },
     {
-        "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/drawable-xhdpi/ab_solid_mystyleplayer.9.png",
-        "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/src/main/res/drawable-xhdpi/ab_solid_mystyleplayer.9.png"
+        "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/drawable-xhdpi/abc_ab_bottom_solid_light_holo.9.png",
+        "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/drawable-xhdpi/abc_ab_bottom_solid_light_holo.9.png"
     },
     {
         "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/drawable-xhdpi/btn_cab_done_default_mystyleplayer.9.png",
         "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/src/main/res/drawable-xhdpi/btn_cab_done_default_mystyleplayer.9.png"
     },
     {
-        "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/drawable-xhdpi/abc_ab_bottom_solid_light_holo.9.png",
-        "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/drawable-xhdpi/abc_ab_bottom_solid_light_holo.9.png"
+        "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/drawable-xhdpi/ab_solid_mystyleplayer.9.png",
+        "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/src/main/res/drawable-xhdpi/ab_solid_mystyleplayer.9.png"
     },
     {
         "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/drawable-xhdpi/abc_list_pressed_holo_dark.9.png",

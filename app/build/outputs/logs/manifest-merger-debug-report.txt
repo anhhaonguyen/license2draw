@@ -56,6 +56,13 @@ ADDED from /Users/doba/Documents/Programming/Freelancer/LicenseCam/app/src/main/
 uses-sdk
 ADDED from /Users/doba/Documents/Programming/Freelancer/LicenseCam/app/src/main/AndroidManifest.xml:18:5-20:41
 MERGED from [com.android.support:appcompat-v7:19.1.0] /Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-location:10.0.1] /Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/10.0.1/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-base:10.0.1] /Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] /Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.0.1/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] /Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:support-v4:24.0.0] /Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:21:5-23:54
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:24.0.0] /Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:23:9-51
 	android:targetSdkVersion
 		ADDED from /Users/doba/Documents/Programming/Freelancer/LicenseCam/app/src/main/AndroidManifest.xml:20:9-38
 		INJECTED from /Users/doba/Documents/Programming/Freelancer/LicenseCam/app/src/main/AndroidManifest.xml
@@ -67,6 +74,11 @@ MERGED from [com.android.support:appcompat-v7:19.1.0] /Users/doba/Documents/Prog
 application
 ADDED from /Users/doba/Documents/Programming/Freelancer/LicenseCam/app/src/main/AndroidManifest.xml:22:5-68:19
 MERGED from [com.android.support:appcompat-v7:19.1.0] /Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-location:10.0.1] /Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/10.0.1/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-base:10.0.1] /Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] /Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.0.1/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] /Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:24.0.0] /Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:25:5-20
 	android:label
 		ADDED from /Users/doba/Documents/Programming/Freelancer/LicenseCam/app/src/main/AndroidManifest.xml:26:9-41
 	android:hardwareAccelerated
@@ -143,3 +155,17 @@ ADDED from /Users/doba/Documents/Programming/Freelancer/LicenseCam/app/src/main/
 		ADDED from /Users/doba/Documents/Programming/Freelancer/LicenseCam/app/src/main/AndroidManifest.xml:67:13-50
 	android:name
 		ADDED from /Users/doba/Documents/Programming/Freelancer/LicenseCam/app/src/main/AndroidManifest.xml:66:19-64
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.0.1] /Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] /Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] /Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] /Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:10.0.1] /Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:10.0.1] /Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:10.0.1] /Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/AndroidManifest.xml:20:20-65
