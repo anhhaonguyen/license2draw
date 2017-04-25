@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw720dp-land-v13/values-sw720dp-land-v13.xml",
+        "outputFile": "/Users/cubin/Desktop/Personal/license2draw/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw720dp-land-v13/values-sw720dp-land-v13.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 109
                 },
                 "from": {
-                    "file": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/src/main/res/values-sw720dp-land/dimens.xml",
+                    "file": "/Users/cubin/Desktop/Personal/license2draw/app/src/main/res/values-sw720dp-land/dimens.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,

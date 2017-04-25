@@ -17,7 +17,7 @@ import android.view.View.OnTouchListener;
 import android.widget.ImageView;
 
 
-import org.rtspplayer.sample.R;
+import com.uudam.license2draw.R;
 
 import java.net.URI;
 

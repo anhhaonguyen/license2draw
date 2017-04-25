@@ -17,7 +17,7 @@ import android.preference.PreferenceActivity;
 import android.preference.PreferenceManager;
 
 
-import org.rtspplayer.sample.R;
+import com.uudam.license2draw.R;
 
 import java.util.Map;
 

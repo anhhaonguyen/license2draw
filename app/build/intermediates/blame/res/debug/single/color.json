@@ -1,14 +1,14 @@
 [
     {
-        "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_light.xml",
-        "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/res/color/common_google_signin_btn_text_light.xml"
+        "merged": "/Users/cubin/Desktop/Personal/license2draw/app/build/intermediates/res/merged/debug/color/abc_search_url_text_holo.xml",
+        "source": "/Users/cubin/.android/build-cache/627fa21bd98e75ba77a95942e1f952011861e714/output/res/color/abc_search_url_text_holo.xml"
     },
     {
-        "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/color/abc_search_url_text_holo.xml",
-        "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/color/abc_search_url_text_holo.xml"
+        "merged": "/Users/cubin/Desktop/Personal/license2draw/app/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_light.xml",
+        "source": "/Users/cubin/.android/build-cache/7e09c0cc3d07e4da78ad61b7726d3d7dc78f7d2f/output/res/color/common_google_signin_btn_text_light.xml"
     },
     {
-        "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_dark.xml",
-        "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/res/color/common_google_signin_btn_text_dark.xml"
+        "merged": "/Users/cubin/Desktop/Personal/license2draw/app/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/cubin/.android/build-cache/7e09c0cc3d07e4da78ad61b7726d3d7dc78f7d2f/output/res/color/common_google_signin_btn_text_dark.xml"
     }
 ]

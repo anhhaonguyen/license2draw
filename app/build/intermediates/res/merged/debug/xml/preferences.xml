@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PreferenceScreen 
     xmlns:android="http://schemas.android.com/apk/res/android" 
-    xmlns:application="http://schemas.android.com/apk/res/org.rtspplayer.sample"
+    xmlns:application="http://schemas.android.com/apk/res/com.uudam.license2draw"
     android:inputType="number" >
 	<PreferenceCategory
    		android:title="Files"
@@ -27,7 +27,7 @@
      			android:persistent="true"
      			android:summary="Select aspect ratio or full screen mode." />
  -->   		
-         <org.rtspplayer.sample.util.IntListPreference
+         <com.uudam.license2draw.util.IntListPreference
 		        android:key="rendererAspectRatioMode"
 		        android:entries="@array/prefs_int_list_aspectratiomode_entries"
 		        android:entryValues="@array/prefs_int_list_aspectratiomode_values"
@@ -40,7 +40,7 @@
 	<PreferenceCategory
    		android:title="Video decoding"
 		android:summary="" >
-  		<org.rtspplayer.sample.util.IntCheckBoxPreference
+  		<com.uudam.license2draw.util.IntCheckBoxPreference
      			android:title="Video decoding acceleration"
      			android:key="decoderType"
      			android:persistent="true"
@@ -49,12 +49,12 @@
 	<PreferenceCategory
    		android:title="Video rendering"
 		android:summary="" >
-  		<org.rtspplayer.sample.util.IntCheckBoxPreference
+  		<com.uudam.license2draw.util.IntCheckBoxPreference
      			android:title="Video rendereing acceleration using OpenGL"
      			android:key="rendererType"
      			android:persistent="true"
      			android:summary="Enable optimized OpenGL rendering." />
-  		<org.rtspplayer.sample.util.IntCheckBoxPreference
+  		<com.uudam.license2draw.util.IntCheckBoxPreference
      			android:title="Grayscaled or color video"
      			android:key="rendererEnableColorVideo"
      			android:persistent="true"
@@ -63,12 +63,12 @@
     <PreferenceCategory
    		android:title="Synchronization"
 		android:summary="" >
-  		<org.rtspplayer.sample.util.IntCheckBoxPreference
+  		<com.uudam.license2draw.util.IntCheckBoxPreference
      			android:title="A/V synchronization"
      			android:key="synchroEnable"
      			android:persistent="true"
     			android:summary="Synchronization audio and video streams." />
-  		<org.rtspplayer.sample.util.IntCheckBoxPreference
+  		<com.uudam.license2draw.util.IntCheckBoxPreference
      			android:title="Drop video frames"
      			android:key="synchroNeedDropVideoFrames"
      			android:persistent="true"
@@ -77,7 +77,7 @@
     <PreferenceCategory
    		android:title="Streams"
 		android:summary="" >
-         <org.rtspplayer.sample.util.IntListPreference
+         <com.uudam.license2draw.util.IntListPreference
 		        android:key="connectionProtocol"
 		        android:entries="@array/prefs_int_list_connectiontype_entries"
 		        android:entryValues="@array/prefs_int_list_connectiontype_values"
@@ -85,13 +85,13 @@
 		        android:title="RTSP tunneling" 
 		     	android:summary="Network protocol for RTP streaming."
 		     	/>
-	    <org.rtspplayer.sample.util.IntEditTextPreference
+	    <com.uudam.license2draw.util.IntEditTextPreference
 		     	android:key="connectionDetectionTime"
 		     	android:title="Probe time"  
 		     	android:summary="Detection time of video and audio parameters (msec)."
 		     	android:inputType="number"
 		     	/>
-	    <org.rtspplayer.sample.util.IntEditTextPreference
+	    <com.uudam.license2draw.util.IntEditTextPreference
 		     	android:key="connectionBufferingTime"
 		     	android:title="Buffering on start"  
 		     	android:summary="Size of buffering on stream start (msec)."
@@ -107,7 +107,7 @@
      			android:persistent="true"
     			android:summary="Show preview screen over list." 
     			/>
-        <org.rtspplayer.sample.util.IntEditTextPreference
+        <com.uudam.license2draw.util.IntEditTextPreference
 		     	android:key="thumbnailThreadCount"
 		     	android:title="Refresh stream thumbnail"  
 		     	android:summary="Number of threads used for update stream thumbnails. Range: 0 - 20. 0 - disable update."

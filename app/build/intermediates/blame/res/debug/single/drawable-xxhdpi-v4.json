@@ -1,98 +1,102 @@
 [
     {
-        "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_google_signin_btn_text_dark_normal.9.png",
-        "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/res/drawable-xxhdpi-v4/common_google_signin_btn_text_dark_normal.9.png"
+        "merged": "/Users/cubin/Desktop/Personal/license2draw/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/player_pause_xxhdpi_scaled.xml",
+        "source": "/Users/cubin/Desktop/Personal/license2draw/app/src/main/res/drawable-xxhdpi/player_pause_xxhdpi_scaled.xml"
     },
     {
-        "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_pressed.9.png",
-        "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/res/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_pressed.9.png"
+        "merged": "/Users/cubin/Desktop/Personal/license2draw/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/player_screen_compact_xxhdpi_scaled.xml",
+        "source": "/Users/cubin/Desktop/Personal/license2draw/app/src/main/res/drawable-xxhdpi/player_screen_compact_xxhdpi_scaled.xml"
     },
     {
-        "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_google_signin_btn_icon_dark_pressed.9.png",
-        "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/res/drawable-xxhdpi-v4/common_google_signin_btn_icon_dark_pressed.9.png"
+        "merged": "/Users/cubin/Desktop/Personal/license2draw/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/player_screen_aspect_xxhdpi_scaled.xml",
+        "source": "/Users/cubin/Desktop/Personal/license2draw/app/src/main/res/drawable-xxhdpi/player_screen_aspect_xxhdpi_scaled.xml"
     },
     {
-        "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_google_signin_btn_text_dark_pressed.9.png",
-        "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/res/drawable-xxhdpi-v4/common_google_signin_btn_text_dark_pressed.9.png"
+        "merged": "/Users/cubin/Desktop/Personal/license2draw/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_google_signin_btn_icon_dark_disabled.9.png",
+        "source": "/Users/cubin/.android/build-cache/7e09c0cc3d07e4da78ad61b7726d3d7dc78f7d2f/output/res/drawable-xxhdpi-v4/common_google_signin_btn_icon_dark_disabled.9.png"
     },
     {
-        "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/player_lock_xxhdpi_scaled.xml",
-        "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/src/main/res/drawable-xxhdpi/player_lock_xxhdpi_scaled.xml"
+        "merged": "/Users/cubin/Desktop/Personal/license2draw/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_google_signin_btn_text_light_pressed.9.png",
+        "source": "/Users/cubin/.android/build-cache/7e09c0cc3d07e4da78ad61b7726d3d7dc78f7d2f/output/res/drawable-xxhdpi-v4/common_google_signin_btn_text_light_pressed.9.png"
     },
     {
-        "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/player_screen_zoom_xxhdpi_scaled.xml",
-        "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/src/main/res/drawable-xxhdpi/player_screen_zoom_xxhdpi_scaled.xml"
+        "merged": "/Users/cubin/Desktop/Personal/license2draw/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/player_screen_full_xxhdpi_scaled.xml",
+        "source": "/Users/cubin/Desktop/Personal/license2draw/app/src/main/res/drawable-xxhdpi/player_screen_full_xxhdpi_scaled.xml"
     },
     {
-        "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/player_next_xxhdpi_scaled.xml",
-        "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/src/main/res/drawable-xxhdpi/player_next_xxhdpi_scaled.xml"
+        "merged": "/Users/cubin/Desktop/Personal/license2draw/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_google_signin_btn_icon_dark_normal.9.png",
+        "source": "/Users/cubin/.android/build-cache/7e09c0cc3d07e4da78ad61b7726d3d7dc78f7d2f/output/res/drawable-xxhdpi-v4/common_google_signin_btn_icon_dark_normal.9.png"
     },
     {
-        "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/player_screen_full_xxhdpi_scaled.xml",
-        "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/src/main/res/drawable-xxhdpi/player_screen_full_xxhdpi_scaled.xml"
+        "merged": "/Users/cubin/Desktop/Personal/license2draw/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/player_previous_xxhdpi_scaled.xml",
+        "source": "/Users/cubin/Desktop/Personal/license2draw/app/src/main/res/drawable-xxhdpi/player_previous_xxhdpi_scaled.xml"
     },
     {
-        "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_google_signin_btn_text_dark_disabled.9.png",
-        "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/res/drawable-xxhdpi-v4/common_google_signin_btn_text_dark_disabled.9.png"
+        "merged": "/Users/cubin/Desktop/Personal/license2draw/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_google_signin_btn_text_dark_pressed.9.png",
+        "source": "/Users/cubin/.android/build-cache/7e09c0cc3d07e4da78ad61b7726d3d7dc78f7d2f/output/res/drawable-xxhdpi-v4/common_google_signin_btn_text_dark_pressed.9.png"
     },
     {
-        "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/player_play_xxhdpi_scaled.xml",
-        "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/src/main/res/drawable-xxhdpi/player_play_xxhdpi_scaled.xml"
+        "merged": "/Users/cubin/Desktop/Personal/license2draw/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_normal.9.png",
+        "source": "/Users/cubin/.android/build-cache/7e09c0cc3d07e4da78ad61b7726d3d7dc78f7d2f/output/res/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_normal.9.png"
     },
     {
-        "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/player_previous_xxhdpi_scaled.xml",
-        "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/src/main/res/drawable-xxhdpi/player_previous_xxhdpi_scaled.xml"
+        "merged": "/Users/cubin/Desktop/Personal/license2draw/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_disabled.9.png",
+        "source": "/Users/cubin/.android/build-cache/7e09c0cc3d07e4da78ad61b7726d3d7dc78f7d2f/output/res/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_disabled.9.png"
     },
     {
-        "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/player_screen_aspect_xxhdpi_scaled.xml",
-        "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/src/main/res/drawable-xxhdpi/player_screen_aspect_xxhdpi_scaled.xml"
+        "merged": "/Users/cubin/Desktop/Personal/license2draw/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/player_screen_stretch_xxhdpi_scaled.xml",
+        "source": "/Users/cubin/Desktop/Personal/license2draw/app/src/main/res/drawable-xxhdpi/player_screen_stretch_xxhdpi_scaled.xml"
     },
     {
-        "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/player_screen_realsize_xxhdpi_scaled.xml",
-        "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/src/main/res/drawable-xxhdpi/player_screen_realsize_xxhdpi_scaled.xml"
+        "merged": "/Users/cubin/Desktop/Personal/license2draw/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/player_screen_crop_xxhdpi_scaled.xml",
+        "source": "/Users/cubin/Desktop/Personal/license2draw/app/src/main/res/drawable-xxhdpi/player_screen_crop_xxhdpi_scaled.xml"
     },
     {
-        "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_google_signin_btn_icon_dark_normal.9.png",
-        "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/res/drawable-xxhdpi-v4/common_google_signin_btn_icon_dark_normal.9.png"
+        "merged": "/Users/cubin/Desktop/Personal/license2draw/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_google_signin_btn_text_dark_disabled.9.png",
+        "source": "/Users/cubin/.android/build-cache/7e09c0cc3d07e4da78ad61b7726d3d7dc78f7d2f/output/res/drawable-xxhdpi-v4/common_google_signin_btn_text_dark_disabled.9.png"
     },
     {
-        "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/player_screen_crop_xxhdpi_scaled.xml",
-        "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/src/main/res/drawable-xxhdpi/player_screen_crop_xxhdpi_scaled.xml"
+        "merged": "/Users/cubin/Desktop/Personal/license2draw/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_google_signin_btn_text_light_normal.9.png",
+        "source": "/Users/cubin/.android/build-cache/7e09c0cc3d07e4da78ad61b7726d3d7dc78f7d2f/output/res/drawable-xxhdpi-v4/common_google_signin_btn_text_light_normal.9.png"
     },
     {
-        "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_normal.9.png",
-        "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/res/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_normal.9.png"
+        "merged": "/Users/cubin/Desktop/Personal/license2draw/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_pressed.9.png",
+        "source": "/Users/cubin/.android/build-cache/7e09c0cc3d07e4da78ad61b7726d3d7dc78f7d2f/output/res/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_pressed.9.png"
     },
     {
-        "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/player_pause_xxhdpi_scaled.xml",
-        "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/src/main/res/drawable-xxhdpi/player_pause_xxhdpi_scaled.xml"
+        "merged": "/Users/cubin/Desktop/Personal/license2draw/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/player_next_xxhdpi_scaled.xml",
+        "source": "/Users/cubin/Desktop/Personal/license2draw/app/src/main/res/drawable-xxhdpi/player_next_xxhdpi_scaled.xml"
     },
     {
-        "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_google_signin_btn_text_light_disabled.9.png",
-        "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/res/drawable-xxhdpi-v4/common_google_signin_btn_text_light_disabled.9.png"
+        "merged": "/Users/cubin/Desktop/Personal/license2draw/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/player_lock_xxhdpi_scaled.xml",
+        "source": "/Users/cubin/Desktop/Personal/license2draw/app/src/main/res/drawable-xxhdpi/player_lock_xxhdpi_scaled.xml"
     },
     {
-        "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_disabled.9.png",
-        "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/res/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_disabled.9.png"
+        "merged": "/Users/cubin/Desktop/Personal/license2draw/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_google_signin_btn_text_light_disabled.9.png",
+        "source": "/Users/cubin/.android/build-cache/7e09c0cc3d07e4da78ad61b7726d3d7dc78f7d2f/output/res/drawable-xxhdpi-v4/common_google_signin_btn_text_light_disabled.9.png"
     },
     {
-        "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_google_signin_btn_text_light_normal.9.png",
-        "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/res/drawable-xxhdpi-v4/common_google_signin_btn_text_light_normal.9.png"
+        "merged": "/Users/cubin/Desktop/Personal/license2draw/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_google_signin_btn_icon_dark_pressed.9.png",
+        "source": "/Users/cubin/.android/build-cache/7e09c0cc3d07e4da78ad61b7726d3d7dc78f7d2f/output/res/drawable-xxhdpi-v4/common_google_signin_btn_icon_dark_pressed.9.png"
     },
     {
-        "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_google_signin_btn_text_light_pressed.9.png",
-        "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/res/drawable-xxhdpi-v4/common_google_signin_btn_text_light_pressed.9.png"
+        "merged": "/Users/cubin/Desktop/Personal/license2draw/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_google_signin_btn_text_dark_normal.9.png",
+        "source": "/Users/cubin/.android/build-cache/7e09c0cc3d07e4da78ad61b7726d3d7dc78f7d2f/output/res/drawable-xxhdpi-v4/common_google_signin_btn_text_dark_normal.9.png"
     },
     {
-        "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_google_signin_btn_icon_dark_disabled.9.png",
-        "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/res/drawable-xxhdpi-v4/common_google_signin_btn_icon_dark_disabled.9.png"
+        "merged": "/Users/cubin/Desktop/Personal/license2draw/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/view_state_text_selector.xml",
+        "source": "/Users/cubin/Desktop/Personal/license2draw/app/src/main/res/drawable-xxhdpi/view_state_text_selector.xml"
     },
     {
-        "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/player_screen_compact_xxhdpi_scaled.xml",
-        "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/src/main/res/drawable-xxhdpi/player_screen_compact_xxhdpi_scaled.xml"
+        "merged": "/Users/cubin/Desktop/Personal/license2draw/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/player_play_xxhdpi_scaled.xml",
+        "source": "/Users/cubin/Desktop/Personal/license2draw/app/src/main/res/drawable-xxhdpi/player_play_xxhdpi_scaled.xml"
     },
     {
-        "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/player_screen_stretch_xxhdpi_scaled.xml",
-        "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/src/main/res/drawable-xxhdpi/player_screen_stretch_xxhdpi_scaled.xml"
+        "merged": "/Users/cubin/Desktop/Personal/license2draw/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/player_screen_zoom_xxhdpi_scaled.xml",
+        "source": "/Users/cubin/Desktop/Personal/license2draw/app/src/main/res/drawable-xxhdpi/player_screen_zoom_xxhdpi_scaled.xml"
+    },
+    {
+        "merged": "/Users/cubin/Desktop/Personal/license2draw/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/player_screen_realsize_xxhdpi_scaled.xml",
+        "source": "/Users/cubin/Desktop/Personal/license2draw/app/src/main/res/drawable-xxhdpi/player_screen_realsize_xxhdpi_scaled.xml"
     }
 ]

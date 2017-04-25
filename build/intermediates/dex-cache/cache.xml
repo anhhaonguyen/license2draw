@@ -2,103 +2,184 @@
 <items version="2" >
 
     <item
-        is-multidex="true"
-        jar="/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28">
-        <dex dex="/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-19.1.0_85efaaecf5ad220072638cf44d041513ff7bdfe2/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="f8e50ced7031e7125f4c749d81a39175e7067b71">
-        <dex dex="/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_99b394a6f68098cae429b1a55db7ec22ebd344f2/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
-        <dex dex="/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.0.0_d039a5837439bcc3bd844e27b308a72b3d36afc8/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/10.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="44a694d4095be84c2888764b1f7256b385c030ad">
-        <dex dex="/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-10.0.1_df4248412dfc30931122120513fb84975ba3aaa2/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/jars/classes.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="/Users/cubin/.android/build-cache/7e09c0cc3d07e4da78ad61b7726d3d7dc78f7d2f/output/jars/classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="25438f55fc6d906a0e72f30b21487541430ede43">
-        <dex dex="/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-10.0.1_398bb76e5450999cd1c298e3f0640dbb335becee/classes.dex" />
+        <dex dex="/Users/cubin/Desktop/Personal/license2draw/app/build/intermediates/pre-dexed/debug/classes_4829fc51ecdc8b39986f52c3950f8a5e5d1aecfa.jar" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
-        <dex dex="/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-10.0.1_d1f2a854d9b9ebff4d97aa2628b75c5315709796/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="95ccd61360348bb2777c60a119159aa4c8cd7e7f">
-        <dex dex="/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_755ee905dd051ce737569f4bd218fe533fdb6909/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.0.1/jars/classes.jar"
+        jar="/Users/cubin/.android/build-cache/ac069bdf1fb79ce175e3eab3bc0f56e24f590ea7/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
-        <dex dex="/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-10.0.1_90c792a0ef86b5652956a81ea5a89ee71f16db0f/classes.dex" />
+        <dex dex="/Users/cubin/Desktop/Personal/license2draw/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_485278dc9cac92a9d08c87e18870fdbc95634acb/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/doba/Documents/IDE/sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jar="/Users/cubin/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
-        <dex dex="/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.0.0_d139ebbc88243612cc2ac904f91f09827ae3a15c/classes.dex" />
+        <dex dex="/Users/cubin/Desktop/Personal/license2draw/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.0.0_7d241111344e33c55f72b472c2558e663e7388ca/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jar="/Users/cubin/.android/build-cache/627fa21bd98e75ba77a95942e1f952011861e714/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
-        <dex dex="/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_9bdeb1ca198438a6923ed4c3a13aefd2b1c2e95c/classes.dex" />
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28">
+        <dex dex="/Users/cubin/Desktop/Personal/license2draw/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_86e47e823911fae9f713b0211ebf3a906a7b4727/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cubin/.android/build-cache/627fa21bd98e75ba77a95942e1f952011861e714/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28">
+        <dex dex="/Users/cubin/Desktop/Personal/license2draw/app/build/intermediates/pre-dexed/debug/classes_86e47e823911fae9f713b0211ebf3a906a7b4727.jar" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/libs/mediaplayersdk.jar"
+        jar="/Users/cubin/Desktop/Personal/license2draw/app/libs/mediaplayersdk.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="7969909d8b785134c0f6b76ddfe420e38cc15b88">
-        <dex dex="/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/transforms/dex/debug/folders/1000/2/mediaplayersdk_4c3b5ec7e136bb3aa4d7381250b8207b79c0df61/classes.dex" />
+        <dex dex="/Users/cubin/Desktop/Personal/license2draw/app/build/intermediates/transforms/dex/debug/folders/1000/2/mediaplayersdk_88805b837b4893054228b8145708ef5fd059c1d3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cubin/Desktop/Personal/license2draw/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="24f0b589961ed6c99bbcd73b390740afdfda07c9">
+        <dex dex="/Users/cubin/Desktop/Personal/license2draw/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_c63445551b583806c6dcc028876e2912cd97b509/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cubin/Desktop/Personal/license2draw/app/libs/mediaplayersdk.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7969909d8b785134c0f6b76ddfe420e38cc15b88">
+        <dex dex="/Users/cubin/Desktop/Personal/license2draw/app/build/intermediates/pre-dexed/debug/mediaplayersdk_88805b837b4893054228b8145708ef5fd059c1d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cubin/.android/build-cache/ac069bdf1fb79ce175e3eab3bc0f56e24f590ea7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="/Users/cubin/Desktop/Personal/license2draw/app/build/intermediates/pre-dexed/debug/classes_485278dc9cac92a9d08c87e18870fdbc95634acb.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cubin/.android/build-cache/a9c6cae643b1b813f7093ec089480d51923d4037/output/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/Users/cubin/Desktop/Personal/license2draw/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_630ee65b12667e1311dca0d19934654d2b0c99df/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cubin/.android/build-cache/11b207b869df1fff372d5e0b9cbdbf98609a2da5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44a694d4095be84c2888764b1f7256b385c030ad">
+        <dex dex="/Users/cubin/Desktop/Personal/license2draw/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_dbc629a35877a52508c0a4d00308bec97e275a6a/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cubin/.android/build-cache/605e1df5e2fe2b2eb22dc40654a6ffe2d9dc54bb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="/Users/cubin/Desktop/Personal/license2draw/app/build/intermediates/pre-dexed/debug/classes_590ed8813f255cc6d6b04564f1c478474c358749.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cubin/.android/build-cache/a9c6cae643b1b813f7093ec089480d51923d4037/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/Users/cubin/Desktop/Personal/license2draw/app/build/intermediates/pre-dexed/debug/classes_7c31baacf486135dc6eb780493386a43b8d6e815.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cubin/.android/build-cache/11b207b869df1fff372d5e0b9cbdbf98609a2da5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44a694d4095be84c2888764b1f7256b385c030ad">
+        <dex dex="/Users/cubin/Desktop/Personal/license2draw/app/build/intermediates/pre-dexed/debug/classes_dbc629a35877a52508c0a4d00308bec97e275a6a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cubin/.android/build-cache/605e1df5e2fe2b2eb22dc40654a6ffe2d9dc54bb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="/Users/cubin/Desktop/Personal/license2draw/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_590ed8813f255cc6d6b04564f1c478474c358749/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cubin/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/Users/cubin/Desktop/Personal/license2draw/app/build/intermediates/pre-dexed/debug/support-annotations-24.0.0_7d241111344e33c55f72b472c2558e663e7388ca.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cubin/Desktop/Personal/license2draw/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/cubin/Desktop/Personal/license2draw/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_b996657589435f47930325c2cfe2b2c1864bf22f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cubin/.android/build-cache/a9c6cae643b1b813f7093ec089480d51923d4037/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/Users/cubin/Desktop/Personal/license2draw/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7c31baacf486135dc6eb780493386a43b8d6e815/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cubin/.android/build-cache/a9c6cae643b1b813f7093ec089480d51923d4037/output/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/Users/cubin/Desktop/Personal/license2draw/app/build/intermediates/pre-dexed/debug/internal_impl-24.0.0_630ee65b12667e1311dca0d19934654d2b0c99df.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cubin/.android/build-cache/7e09c0cc3d07e4da78ad61b7726d3d7dc78f7d2f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="/Users/cubin/Desktop/Personal/license2draw/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4829fc51ecdc8b39986f52c3950f8a5e5d1aecfa/classes.dex" />
     </item>
 
 </items>

@@ -1,13 +1,13 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 19
+    compileSdkVersion 23
     buildToolsVersion "25.0.2"
 
     defaultConfig {
-        applicationId "org.rtspplayer.sample"
+        applicationId "com.uudam.license2draw"
         minSdkVersion 14
-        targetSdkVersion 19
+        targetSdkVersion 23
     }
 
     buildTypes {
@@ -16,6 +16,8 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
         }
     }
+
+    useLibrary  'org.apache.http.legacy'
 }
 
 dependencies {

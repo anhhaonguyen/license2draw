@@ -15,7 +15,7 @@ import android.text.Html;
 import android.text.util.Linkify;
 import android.widget.TextView;
 
-import org.rtspplayer.sample.R;
+import com.uudam.license2draw.R;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="org.rtspplayer.sample"
+    package="com.uudam.license2draw"
     android:installLocation="auto"
-    android:versionCode="37"
-    android:versionName="4.2.9" >
+    android:versionCode="17"
+    android:versionName="2.0" >
 
     <uses-sdk
         android:minSdkVersion="14"
-        android:targetSdkVersion="19" />
-
+        android:targetSdkVersion="23" />
+0
     <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE" />
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.CHANGE_WIFI_MULTICAST_STATE" />
@@ -22,7 +22,6 @@
     <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
 
     <application
-        android:name="com.android.tools.fd.runtime.BootstrapApplication"
         android:allowBackup="true"
         android:hardwareAccelerated="true"
         android:icon="@drawable/app"
@@ -51,7 +50,7 @@
             android:name="control.activity.MainActivity"
             android:screenOrientation="landscape" />
         <activity
-            android:name="org.rtspplayer.sample.activity.PreferencesActivity"
+            android:name="com.uudam.license2draw.activity.PreferencesActivity"
             android:noHistory="true" >
 
             <!-- android:theme="@android:style/Theme.Black.NoTitleBar" -->
@@ -76,6 +75,11 @@
         <meta-data
             android:name="com.google.android.gms.version"
             android:value="@integer/google_play_services_version" />
+
+        <provider
+            android:name="com.android.tools.fd.runtime.InstantRunContentProvider"
+            android:authorities="com.uudam.license2draw.com.android.tools.fd.runtime.InstantRunContentProvider"
+            android:multiprocess="true" />
     </application>
 
 </manifest>

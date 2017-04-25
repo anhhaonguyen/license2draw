@@ -14,7 +14,7 @@ import android.view.inputmethod.InputMethodManager;
 import android.widget.EditText;
 import android.widget.ImageView;
 
-import org.rtspplayer.sample.R;
+import com.uudam.license2draw.R;
 
 
 public class LoginActivity extends FragmentActivity implements OnClickListener {

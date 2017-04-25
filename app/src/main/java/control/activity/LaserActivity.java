@@ -14,7 +14,7 @@ import android.widget.ImageView;
 
 import org.json.JSONException;
 import org.json.JSONObject;
-import org.rtspplayer.sample.R;
+import com.uudam.license2draw.R;
 
 import java.net.URI;
 
@@ -88,9 +88,6 @@ public class LaserActivity  extends BasePlayerActivity implements OnClickListene
 							client.send("0");
 						}
 
-						if(isLocationActive){
-							clientLocation.send("0");
-						}
 						break;
 				}
 				return true;
@@ -121,9 +118,6 @@ public class LaserActivity  extends BasePlayerActivity implements OnClickListene
 							client.send("0");
 						}
 
-						if(isLocationActive){
-							clientLocation.send("0");
-						}
 						break;
 				}
 				return true;
@@ -154,9 +148,6 @@ public class LaserActivity  extends BasePlayerActivity implements OnClickListene
 							client.send("0");
 						}
 
-						if(isLocationActive){
-							clientLocation.send("0");
-						}
 						break;
 				}
 				return true;
@@ -187,9 +178,6 @@ public class LaserActivity  extends BasePlayerActivity implements OnClickListene
 							client.send("0");
 						}
 
-						if(isLocationActive){
-							clientLocation.send("0");
-						}
 						break;
 				}
 				return true;
@@ -220,9 +208,6 @@ public class LaserActivity  extends BasePlayerActivity implements OnClickListene
 							client.send("0");
 						}
 
-						if(isLocationActive){
-							clientLocation.send("0");
-						}
 						break;
 				}
 				return true;
@@ -253,9 +238,6 @@ public class LaserActivity  extends BasePlayerActivity implements OnClickListene
 							client.send("0");
 						}
 
-						if(isLocationActive){
-							clientLocation.send("0");
-						}
 						break;
 				}
 				return true;
@@ -495,7 +477,7 @@ public class LaserActivity  extends BasePlayerActivity implements OnClickListene
 		AlertDialog alertDialog = alertDialogBuilder.create();
 
 		// show it
-		alertDialog.show();
+//		alertDialog.show();
 	}
 	
 	private void showAlertTimout(String title, String message) {

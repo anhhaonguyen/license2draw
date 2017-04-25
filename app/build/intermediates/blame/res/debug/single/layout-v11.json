@@ -1,10 +1,10 @@
 [
     {
-        "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/layout-v11/abc_simple_decor.xml",
-        "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/layout-v11/abc_simple_decor.xml"
+        "merged": "/Users/cubin/Desktop/Personal/license2draw/app/build/intermediates/res/merged/debug/layout-v11/abc_simple_decor.xml",
+        "source": "/Users/cubin/.android/build-cache/627fa21bd98e75ba77a95942e1f952011861e714/output/res/layout-v11/abc_simple_decor.xml"
     },
     {
-        "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/layout-v11/abc_action_bar_decor.xml",
-        "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/layout-v11/abc_action_bar_decor.xml"
+        "merged": "/Users/cubin/Desktop/Personal/license2draw/app/build/intermediates/res/merged/debug/layout-v11/abc_action_bar_decor.xml",
+        "source": "/Users/cubin/.android/build-cache/627fa21bd98e75ba77a95942e1f952011861e714/output/res/layout-v11/abc_action_bar_decor.xml"
     }
 ]

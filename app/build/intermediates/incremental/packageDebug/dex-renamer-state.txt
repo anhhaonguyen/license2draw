@@ -1,7 +1,7 @@
-#Sun Feb 26 00:52:51 ICT 2017
-base.0=/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_755ee905dd051ce737569f4bd218fe533fdb6909
-renamed.1=classes.dex
-renamed.0=classes2.dex
-file.1=/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_99b394a6f68098cae429b1a55db7ec22ebd344f2/classes.dex
-base.1=/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_99b394a6f68098cae429b1a55db7ec22ebd344f2
-file.0=/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_755ee905dd051ce737569f4bd218fe533fdb6909/classes.dex
+#Tue Apr 25 11:09:30 ICT 2017
+base.0=/Users/cubin/Desktop/Personal/license2draw/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_c63445551b583806c6dcc028876e2912cd97b509
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/cubin/Desktop/Personal/license2draw/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_b996657589435f47930325c2cfe2b2c1864bf22f/classes.dex
+base.1=/Users/cubin/Desktop/Personal/license2draw/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_b996657589435f47930325c2cfe2b2c1864bf22f
+file.0=/Users/cubin/Desktop/Personal/license2draw/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_c63445551b583806c6dcc028876e2912cd97b509/classes.dex

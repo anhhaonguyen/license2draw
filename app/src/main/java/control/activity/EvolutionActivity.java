@@ -12,7 +12,7 @@ import android.view.View.OnClickListener;
 import android.view.View.OnTouchListener;
 import android.widget.ImageView;
 
-import org.rtspplayer.sample.R;
+import com.uudam.license2draw.R;
 
 import java.net.URI;
 
@@ -622,7 +622,7 @@ public class EvolutionActivity extends BasePlayerActivity implements OnClickList
 		AlertDialog alertDialog = alertDialogBuilder.create();
 
 		// show it
-		alertDialog.show();
+//		alertDialog.show();
 	}
 	
 	private void showAlertTimout(String title, String message) {
