@@ -31,7 +31,7 @@
                     android:paddingRight="24dp"
                     android:text="SAIGON CLASSIC"
                     android:textAlignment="center"
-                    android:textColor="@drawable/view_state_text_selector"
+                    android:textColor="@color/white"
                     android:textSize="@dimen/text_size"
                     android:textStyle="bold" />
 
@@ -40,9 +40,9 @@
                     android:layout_width="200dp"
                     android:layout_height="wrap_content"
                     android:gravity="center_horizontal"
-                    android:text="SAIGON EVOLUTION"
+                    android:text="L2D @ SAM"
                     android:textAlignment="center"
-                    android:textColor="@drawable/view_state_text_selector"
+                    android:textColor="@color/yellow"
                     android:textSize="@dimen/text_size"
                     android:textStyle="bold" />
 
@@ -75,7 +75,7 @@
                     android:paddingRight="24dp"
                     android:text="SAIGON EVOLUTION 2"
                     android:textAlignment="center"
-                    android:textColor="@drawable/view_state_text_selector"
+                    android:textColor="@color/white"
                     android:textSize="@dimen/text_size"
                     android:textStyle="bold" />
 
@@ -86,7 +86,7 @@
                     android:layout_weight="1"
                     android:gravity="center_horizontal"
                     android:text="LASER"
-                    android:textColor="@drawable/view_state_text_selector"
+                    android:textColor="@color/white"
                     android:textSize="@dimen/text_size"
                     android:textStyle="bold" />
 
