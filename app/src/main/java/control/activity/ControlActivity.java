@@ -17,7 +17,7 @@ import android.view.View.OnTouchListener;
 import android.widget.ImageView;
 
 
-import org.rtspplayer.sample.R;
+import com.uudam.license2draw.R;
 
 import java.net.URI;
 
@@ -115,7 +115,6 @@ public class ControlActivity extends BasePlayerActivity implements
 						@Override
 						public void run() {
 							// TODO Auto-generated method stub
-							showSuccess();
 						}
 					});
 				}
@@ -149,7 +148,6 @@ public class ControlActivity extends BasePlayerActivity implements
 						public void run() {
 							// TODO Auto-generated method stub
 							isShowAlert = true;
-							showAlert("Error", errorString);
 						}
 					});
 				}
@@ -176,7 +174,6 @@ public class ControlActivity extends BasePlayerActivity implements
 						@Override
 						public void run() {
 							// TODO Auto-generated method stub
-							showSuccess();
 						}
 					});
 				}
@@ -485,19 +482,7 @@ public class ControlActivity extends BasePlayerActivity implements
 			break;
 		}
 	}
-	
-	Handler handler = new Handler();
-	Runnable r = new Runnable() {
-		public void run() {
-			Log.v(TAG, "Disconnect");
-			client.disconnect();
-			imgLost.setBackgroundResource(R.drawable.icon_lost);
-			imgLost.setClickable(true);
-			showAlertTimout("Timeout", "Your session is ended. System will disconnect now. Please help us spread this remote to the world");
-		}
-	};
 
-    //handler.postDelayed(r, 5000);
 
 	@Override
 	protected void onActivityResult(int requestCode, int resultCode, Intent data) {
@@ -511,10 +496,7 @@ public class ControlActivity extends BasePlayerActivity implements
 
 				imgLost.setBackgroundResource(R.drawable.icon_connected);
 				imgLost.setClickable(false);
-				
-				showAlert("Done", getResources().getString(R.string.welcom_license));
-				
-				handler.postDelayed(r, 300000);
+
 			}
 		}
 	}// onActi
@@ -569,81 +551,5 @@ public class ControlActivity extends BasePlayerActivity implements
 	public void notifyDisconnected() {
 		// TODO Auto-generated method stub
 		Log.v(TAG, "notifyDisconnected ");
-	}
-
-	
-	private void showAlert(String title, String message) {
-		Log.e(TAG, "showAlert");
-		AlertDialog.Builder alertDialogBuilder = new AlertDialog.Builder(ControlActivity.this);
-		alertDialogBuilder.setCancelable(true);
-		alertDialogBuilder.setTitle(title);
-		if(!message.equals("")){
-			alertDialogBuilder.setMessage(message);
-		}
-		alertDialogBuilder.setCancelable(false).setPositiveButton("OK", new DialogInterface.OnClickListener() {
-			public void onClick(DialogInterface dialog, int id) {
-			}
-		});
-		
-		if(title.equals("Timeout")){
-			alertDialogBuilder.setCancelable(false).setPositiveButton("OK", new DialogInterface.OnClickListener() {
-				public void onClick(DialogInterface dialog, int id) {
-				}
-			});
-		}
-		// create alert dialog
-		AlertDialog alertDialog = alertDialogBuilder.create();
-//		alertDialog.show();
-	}
-	
-	private void showSuccess(){
-		Log.e(TAG, "showSuccess");
-		AlertDialog.Builder alertDialogBuilder = new AlertDialog.Builder(this);
-		// set title
-		alertDialogBuilder.setTitle("Done");
-		alertDialogBuilder.setMessage("Welcome to License to Draw. Your 5 minutes Drawing session begins now.")
-		.setCancelable(false)
-		.setPositiveButton("Ok",
-				new DialogInterface.OnClickListener() {
-					public void onClick(DialogInterface dialog, int id) {
-						//findViewById(R.id.but_center).setBackgroundResource(R.drawable.icon_connected_tokyo);
-						imgLost.setBackgroundResource(R.drawable.icon_connected);
-						imgLost.setClickable(false);
-					}
-				});
-		AlertDialog alertDialog = alertDialogBuilder.create();
-
-		// show it
-//		alertDialog.show();
-	}
-	
-	private void showAlertTimout(String title, String message) {
-		Log.e(TAG, "showAlertTimout");
-		AlertDialog.Builder alertDialogBuilder = new AlertDialog.Builder(ControlActivity.this);
-		alertDialogBuilder.setCancelable(true);
-		alertDialogBuilder.setTitle(title);
-		if(!message.equals("")){
-			alertDialogBuilder.setMessage(message);
-		}
-		alertDialogBuilder.setCancelable(false).setPositiveButton("Not now", new DialogInterface.OnClickListener() {
-			public void onClick(DialogInterface dialog, int id) {
-			}
-		});
-		
-		alertDialogBuilder.setCancelable(false).setPositiveButton("OK", new DialogInterface.OnClickListener() {
-			public void onClick(DialogInterface dialog, int id) {
-			}
-		});
-//		.setNegativeButton("No", new DialogInterface.OnClickListener() {
-//			public void onClick(DialogInterface dialog, int id) {
-//				// if this button is clicked, just close
-//				// the dialog box and do nothing
-//				dialog.cancel();
-//			}
-//		});
-
-		// create alert dialog
-		AlertDialog alertDialog = alertDialogBuilder.create();
-//		alertDialog.show();
 	}
 }

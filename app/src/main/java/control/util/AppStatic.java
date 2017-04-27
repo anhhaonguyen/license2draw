@@ -1,6 +1,7 @@
 package control.util;
 
 import android.location.Location;
+import android.location.Address;
 
 import org.json.JSONException;
 import org.json.JSONObject;
@@ -10,7 +11,7 @@ import org.json.JSONObject;
  */
 
 public class AppStatic {
-
+    public static Address address;
     public static Location location;
 
     public static JSONObject getSendingData(String name){
@@ -19,6 +20,8 @@ public class AppStatic {
             jsonObject.put("name", name);
             jsonObject.put("lat", AppStatic.location.getLatitude());
             jsonObject.put("lng", AppStatic.location.getLongitude());
+            jsonObject.put("country_code", address.getCountryCode());
+            jsonObject.put("country_name", address.getCountryName());
         } catch (JSONException e) {
             e.printStackTrace();
         }

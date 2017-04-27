@@ -14,7 +14,7 @@ import android.widget.ImageView;
 
 import org.json.JSONException;
 import org.json.JSONObject;
-import org.rtspplayer.sample.R;
+import com.uudam.license2draw.R;
 
 import java.net.URI;
 
@@ -289,7 +289,6 @@ public class LaserActivity  extends BasePlayerActivity implements OnClickListene
 							@Override
 							public void run() {
 								// TODO Auto-generated method stub
-								showAlert("No Robot", "There is no robot with this name");
 							}
 						});
 					}
@@ -323,7 +322,6 @@ public class LaserActivity  extends BasePlayerActivity implements OnClickListene
 							public void run() {
 								// TODO Auto-generated method stub
 								isShowAlert = true;
-								showAlert("Timeout", "Your session is ended. System will disconnect now. Please help us spread this remote to the world");
 							}
 						});
 					}
@@ -343,7 +341,6 @@ public class LaserActivity  extends BasePlayerActivity implements OnClickListene
 						@Override
 						public void run() {
 							// TODO Auto-generated method stub
-							showSuccess();
 						}
 					});
 				}
@@ -385,7 +382,6 @@ public class LaserActivity  extends BasePlayerActivity implements OnClickListene
 						public void run() {
 							// TODO Auto-generated method stub
 							isShowAlert = true;
-							showAlert("Error", errorString);
 						}
 					});
 				}
@@ -410,7 +406,6 @@ public class LaserActivity  extends BasePlayerActivity implements OnClickListene
 						@Override
 						public void run() {
 							// TODO Auto-generated method stub
-							showSuccess();
 						}
 					});
 				}
@@ -452,74 +447,4 @@ public class LaserActivity  extends BasePlayerActivity implements OnClickListene
 			break;
 		}
 	}
-	
-	private void showAlert(String title, String message) {
-		Log.e(TAG, "showAlert");
-		AlertDialog.Builder alertDialogBuilder = new AlertDialog.Builder(LaserActivity.this);
-		alertDialogBuilder.setCancelable(true);
-		alertDialogBuilder.setTitle(title);
-		if(!message.equals("")){
-			alertDialogBuilder.setMessage(message);
-		}
-		alertDialogBuilder.setCancelable(false).setPositiveButton("OK", new DialogInterface.OnClickListener() {
-			public void onClick(DialogInterface dialog, int id) {
-				findViewById(R.id.but_center).setBackgroundResource(R.drawable.icon_lost);
-			}
-		});
-		
-		if(title.equals("Timeout")){
-			alertDialogBuilder.setCancelable(false).setPositiveButton("OK", new DialogInterface.OnClickListener() {
-				public void onClick(DialogInterface dialog, int id) {
-				}
-			});
-		}
-
-		// create alert dialog
-		AlertDialog alertDialog = alertDialogBuilder.create();
-		alertDialog.show();
-	}
-	
-	private void showSuccess(){
-		Log.e(TAG, "showSuccess");
-		AlertDialog.Builder alertDialogBuilder = new AlertDialog.Builder(this);
-		// set title
-		alertDialogBuilder.setTitle("Done");
-		alertDialogBuilder.setMessage("Welcome to License to Draw. Your 5 minutes Drawing session begins now.")
-		.setCancelable(false)
-		.setPositiveButton("Ok",
-				new DialogInterface.OnClickListener() {
-					public void onClick(DialogInterface dialog, int id) {
-//						findViewById(R.id.but_center).setBackgroundResource(R.drawable.icon_connected);
-					}
-				});
-		AlertDialog alertDialog = alertDialogBuilder.create();
-
-		// show it
-		alertDialog.show();
-	}
-	
-	private void showAlertTimout(String title, String message) {
-		Log.e(TAG, "showAlertTimout");
-		AlertDialog.Builder alertDialogBuilder = new AlertDialog.Builder(LaserActivity.this);
-		alertDialogBuilder.setCancelable(true);
-		alertDialogBuilder.setTitle(title);
-		if(!message.equals("")){
-			alertDialogBuilder.setMessage(message);
-		}
-		alertDialogBuilder.setCancelable(false).setPositiveButton("Not now", new DialogInterface.OnClickListener() {
-			public void onClick(DialogInterface dialog, int id) {
-			}
-		});
-		
-		alertDialogBuilder.setCancelable(false).setPositiveButton("OK", new DialogInterface.OnClickListener() {
-			public void onClick(DialogInterface dialog, int id) {
-			}
-		});
-
-		// create alert dialog
-		AlertDialog alertDialog = alertDialogBuilder.create();
-		alertDialog.show();
-	}
-
-
 }

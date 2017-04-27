@@ -1,6 +1,9 @@
 package control.activity;
 import android.content.Intent;
 import android.location.Location;
+import android.location.Geocoder;
+import android.location.Address;
+import android.content.Context;
 import android.os.Bundle;
 import android.support.v4.app.FragmentActivity;
 import android.util.Log;
@@ -8,7 +11,12 @@ import android.view.View;
 import android.view.View.OnClickListener;
 import android.widget.TextView;
 
-import org.rtspplayer.sample.R;
+import java.io.IOError;
+import java.io.IOException;
+import java.util.List;
+import java.util.Locale;
+
+import com.uudam.license2draw.R;
 
 import control.util.AppStatic;
 import control.util.LocationController;
@@ -30,6 +38,15 @@ public class MainActivity  extends FragmentActivity implements OnClickListener, 
 		AppStatic.location = location;
 
 		Log.e(TAG, "onLocationChange "+location.getLongitude());
+
+		Geocoder geoCoder = new Geocoder(this, Locale.getDefault());
+		try {
+			List<Address> matches = geoCoder.getFromLocation(location.getLatitude(), location.getLongitude(), 1);
+			Address bestMatch = (matches.isEmpty() ? null : matches.get(0));
+			AppStatic.address = bestMatch;
+		} catch (IOException exception) {
+			Log.e(TAG, "geocoder reverse failed, Exception: " + exception.getLocalizedMessage());
+		}
 	}
 
 	@Override

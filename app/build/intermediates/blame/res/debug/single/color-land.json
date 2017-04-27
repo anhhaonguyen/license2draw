@@ -2,5 +2,9 @@
     {
         "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/color-land/tab_text_color.xml",
         "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/src/main/res/color-land/tab_text_color.xml"
+    },
+    {
+        "merged": "/Users/cubin/Desktop/Personal/license2draw/app/build/intermediates/res/merged/debug/color-land/tab_text_color.xml",
+        "source": "/Users/cubin/Desktop/Personal/license2draw/app/src/main/res/color-land/tab_text_color.xml"
     }
 ]

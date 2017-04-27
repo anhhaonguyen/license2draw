@@ -1,5 +1,53 @@
 [
     {
+        "merged": "/Users/cubin/Desktop/Personal/license2draw/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/player_screen_stretch_ldpi_scaled.xml",
+        "source": "/Users/cubin/Desktop/Personal/license2draw/app/src/main/res/drawable-ldpi/player_screen_stretch_ldpi_scaled.xml"
+    },
+    {
+        "merged": "/Users/cubin/Desktop/Personal/license2draw/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/player_screen_full_ldpi_scaled.xml",
+        "source": "/Users/cubin/Desktop/Personal/license2draw/app/src/main/res/drawable-ldpi/player_screen_full_ldpi_scaled.xml"
+    },
+    {
+        "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/player_pause_ldpi_scaled.xml",
+        "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/src/main/res/drawable-ldpi/player_pause_ldpi_scaled.xml"
+    },
+    {
+        "merged": "/Users/cubin/Desktop/Personal/license2draw/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/player_next_ldpi_scaled.xml",
+        "source": "/Users/cubin/Desktop/Personal/license2draw/app/src/main/res/drawable-ldpi/player_next_ldpi_scaled.xml"
+    },
+    {
+        "merged": "/Users/cubin/Desktop/Personal/license2draw/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/player_pause_ldpi_scaled.xml",
+        "source": "/Users/cubin/Desktop/Personal/license2draw/app/src/main/res/drawable-ldpi/player_pause_ldpi_scaled.xml"
+    },
+    {
+        "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/player_previous_ldpi_scaled.xml",
+        "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/src/main/res/drawable-ldpi/player_previous_ldpi_scaled.xml"
+    },
+    {
+        "merged": "/Users/cubin/Desktop/Personal/license2draw/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/player_screen_realsize_ldpi_scaled.xml",
+        "source": "/Users/cubin/Desktop/Personal/license2draw/app/src/main/res/drawable-ldpi/player_screen_realsize_ldpi_scaled.xml"
+    },
+    {
+        "merged": "/Users/cubin/Desktop/Personal/license2draw/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/player_screen_compact_ldpi_scaled.xml",
+        "source": "/Users/cubin/Desktop/Personal/license2draw/app/src/main/res/drawable-ldpi/player_screen_compact_ldpi_scaled.xml"
+    },
+    {
+        "merged": "/Users/cubin/Desktop/Personal/license2draw/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/player_lock_ldpi_scaled.xml",
+        "source": "/Users/cubin/Desktop/Personal/license2draw/app/src/main/res/drawable-ldpi/player_lock_ldpi_scaled.xml"
+    },
+    {
+        "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/player_screen_crop_ldpi_scaled.xml",
+        "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/src/main/res/drawable-ldpi/player_screen_crop_ldpi_scaled.xml"
+    },
+    {
+        "merged": "/Users/cubin/Desktop/Personal/license2draw/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/player_play_ldpi_scaled.xml",
+        "source": "/Users/cubin/Desktop/Personal/license2draw/app/src/main/res/drawable-ldpi/player_play_ldpi_scaled.xml"
+    },
+    {
+        "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/player_screen_stretch_ldpi_scaled.xml",
+        "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/src/main/res/drawable-ldpi/player_screen_stretch_ldpi_scaled.xml"
+    },
+    {
         "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/player_screen_zoom_ldpi_scaled.xml",
         "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/src/main/res/drawable-ldpi/player_screen_zoom_ldpi_scaled.xml"
     },
@@ -12,16 +60,12 @@
         "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/src/main/res/drawable-ldpi/player_screen_full_ldpi_scaled.xml"
     },
     {
-        "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/player_pause_ldpi_scaled.xml",
-        "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/src/main/res/drawable-ldpi/player_pause_ldpi_scaled.xml"
+        "merged": "/Users/cubin/Desktop/Personal/license2draw/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/player_previous_ldpi_scaled.xml",
+        "source": "/Users/cubin/Desktop/Personal/license2draw/app/src/main/res/drawable-ldpi/player_previous_ldpi_scaled.xml"
     },
     {
         "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/player_screen_realsize_ldpi_scaled.xml",
         "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/src/main/res/drawable-ldpi/player_screen_realsize_ldpi_scaled.xml"
-    },
-    {
-        "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/player_previous_ldpi_scaled.xml",
-        "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/src/main/res/drawable-ldpi/player_previous_ldpi_scaled.xml"
     },
     {
         "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/player_screen_aspect_ldpi_scaled.xml",
@@ -32,19 +76,23 @@
         "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/src/main/res/drawable-ldpi/player_next_ldpi_scaled.xml"
     },
     {
+        "merged": "/Users/cubin/Desktop/Personal/license2draw/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/player_screen_crop_ldpi_scaled.xml",
+        "source": "/Users/cubin/Desktop/Personal/license2draw/app/src/main/res/drawable-ldpi/player_screen_crop_ldpi_scaled.xml"
+    },
+    {
         "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/player_lock_ldpi_scaled.xml",
         "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/src/main/res/drawable-ldpi/player_lock_ldpi_scaled.xml"
     },
     {
-        "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/player_screen_crop_ldpi_scaled.xml",
-        "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/src/main/res/drawable-ldpi/player_screen_crop_ldpi_scaled.xml"
+        "merged": "/Users/cubin/Desktop/Personal/license2draw/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/player_screen_aspect_ldpi_scaled.xml",
+        "source": "/Users/cubin/Desktop/Personal/license2draw/app/src/main/res/drawable-ldpi/player_screen_aspect_ldpi_scaled.xml"
+    },
+    {
+        "merged": "/Users/cubin/Desktop/Personal/license2draw/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/player_screen_zoom_ldpi_scaled.xml",
+        "source": "/Users/cubin/Desktop/Personal/license2draw/app/src/main/res/drawable-ldpi/player_screen_zoom_ldpi_scaled.xml"
     },
     {
         "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/player_play_ldpi_scaled.xml",
         "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/src/main/res/drawable-ldpi/player_play_ldpi_scaled.xml"
-    },
-    {
-        "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/player_screen_stretch_ldpi_scaled.xml",
-        "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/src/main/res/drawable-ldpi/player_screen_stretch_ldpi_scaled.xml"
     }
 ]

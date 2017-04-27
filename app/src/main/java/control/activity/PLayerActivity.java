@@ -33,7 +33,7 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 
-import org.rtspplayer.sample.R;
+import com.uudam.license2draw.R;
 
 import java.nio.ByteBuffer;
 

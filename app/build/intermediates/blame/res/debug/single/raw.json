@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/Users/cubin/Desktop/Personal/license2draw/app/build/intermediates/res/merged/debug/raw/info.txt",
+        "source": "/Users/cubin/Desktop/Personal/license2draw/app/src/main/res/raw/info.txt"
+    },
+    {
         "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/raw/info.txt",
         "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/src/main/res/raw/info.txt"
     },
@@ -10,5 +14,13 @@
     {
         "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/raw/legal.txt",
         "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/src/main/res/raw/legal.txt"
+    },
+    {
+        "merged": "/Users/cubin/Desktop/Personal/license2draw/app/build/intermediates/res/merged/debug/raw/opensource.txt",
+        "source": "/Users/cubin/Desktop/Personal/license2draw/app/src/main/res/raw/opensource.txt"
+    },
+    {
+        "merged": "/Users/cubin/Desktop/Personal/license2draw/app/build/intermediates/res/merged/debug/raw/legal.txt",
+        "source": "/Users/cubin/Desktop/Personal/license2draw/app/src/main/res/raw/legal.txt"
     }
 ]

@@ -15,7 +15,7 @@ import android.view.inputmethod.InputMethodManager;
 import android.widget.Button;
 import android.widget.RelativeLayout;
 
-import org.rtspplayer.sample.R;
+import com.uudam.license2draw.R;
 
 import java.nio.ByteBuffer;
 

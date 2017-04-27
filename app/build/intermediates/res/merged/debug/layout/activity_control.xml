@@ -99,14 +99,16 @@
                 android:layout_height="match_parent"
                 android:layout_centerInParent="true"
                 android:background="@color/black"
-                android:gravity="center_horizontal">
+                android:gravity="center_horizontal"
+                android:visibility="invisible">
 
                 <veg.mediaplayer.sdk.MediaPlayer
                     android:id="@+id/playerView"
                     android:layout_width="fill_parent"
                     android:layout_height="fill_parent"
                     android:layout_gravity="center"
-                    android:layout_weight="1.04" />
+                    android:layout_weight="1.04"
+                    android:visibility="invisible" />
             </LinearLayout>
 
         </RelativeLayout>

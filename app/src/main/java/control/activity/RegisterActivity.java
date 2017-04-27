@@ -29,7 +29,7 @@ import org.apache.http.message.BasicNameValuePair;
 import org.json.JSONException;
 import org.json.JSONObject;
 import org.json.JSONTokener;
-import org.rtspplayer.sample.R;
+import com.uudam.license2draw.R;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,0 +1,4 @@
+#Thu Apr 27 16:39:08 ICT 2017
+base.0=/Users/cubin/Desktop/Personal/license2draw/app/build/intermediates/transforms/dex/release/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/cubin/Desktop/Personal/license2draw/app/build/intermediates/transforms/dex/release/folders/1000/1f/main/classes.dex

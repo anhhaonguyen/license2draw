@@ -1,0 +1,121 @@
+[
+    {
+        "outputFile": "/Users/cubin/Desktop/Personal/license2draw/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-normal-hdpi-v4/values-normal-hdpi-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 61,
+                    "endOffset": 112
+                },
+                "from": {
+                    "file": "/Users/cubin/Desktop/Personal/license2draw/app/src/main/res/values-normal-hdpi/dimens.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 88,
+                        "endColumn": 61,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 117,
+                    "endColumn": 71,
+                    "endOffset": 184
+                },
+                "from": {
+                    "file": "/Users/cubin/Desktop/Personal/license2draw/app/src/main/res/values-normal-hdpi/dimens.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 4,
+                        "startOffset": 16,
+                        "endColumn": 71,
+                        "endOffset": 83
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 189,
+                    "endColumn": 78,
+                    "endOffset": 263
+                },
+                "from": {
+                    "file": "/Users/cubin/Desktop/Personal/license2draw/app/src/main/res/values-normal-hdpi/dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 150,
+                        "endColumn": 78,
+                        "endOffset": 224
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 268,
+                    "endColumn": 61,
+                    "endOffset": 325
+                },
+                "from": {
+                    "file": "/Users/cubin/Desktop/Personal/license2draw/app/src/main/res/values-normal-hdpi/dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 306,
+                        "endColumn": 61,
+                        "endOffset": 363
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 330,
+                    "endColumn": 71,
+                    "endOffset": 397
+                },
+                "from": {
+                    "file": "/Users/cubin/Desktop/Personal/license2draw/app/src/main/res/values-normal-hdpi/dimens.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 234,
+                        "endColumn": 71,
+                        "endOffset": 301
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 402,
+                    "endColumn": 77,
+                    "endOffset": 475
+                },
+                "from": {
+                    "file": "/Users/cubin/Desktop/Personal/license2draw/app/src/main/res/values-normal-hdpi/dimens.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 368,
+                        "endColumn": 77,
+                        "endOffset": 441
+                    }
+                }
+            }
+        ]
+    }
+]

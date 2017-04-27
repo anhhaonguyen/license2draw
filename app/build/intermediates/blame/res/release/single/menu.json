@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/cubin/Desktop/Personal/license2draw/app/build/intermediates/res/merged/release/menu/actions.xml",
+        "source": "/Users/cubin/Desktop/Personal/license2draw/app/src/main/res/menu/actions.xml"
+    },
+    {
+        "merged": "/Users/cubin/Desktop/Personal/license2draw/app/build/intermediates/res/merged/release/menu/main.xml",
+        "source": "/Users/cubin/Desktop/Personal/license2draw/app/src/main/res/menu/main.xml"
+    }
+]

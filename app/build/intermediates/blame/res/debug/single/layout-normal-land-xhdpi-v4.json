@@ -2,5 +2,9 @@
     {
         "merged": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/build/intermediates/res/merged/debug/layout-normal-land-xhdpi-v4/player_control_normal_land_xhdpi.xml",
         "source": "/Users/doba/Documents/Programming/Freelancer/LicenseCam/app/src/main/res/layout-normal-land-xhdpi/player_control_normal_land_xhdpi.xml"
+    },
+    {
+        "merged": "/Users/cubin/Desktop/Personal/license2draw/app/build/intermediates/res/merged/debug/layout-normal-land-xhdpi-v4/player_control_normal_land_xhdpi.xml",
+        "source": "/Users/cubin/Desktop/Personal/license2draw/app/src/main/res/layout-normal-land-xhdpi/player_control_normal_land_xhdpi.xml"
     }
 ]

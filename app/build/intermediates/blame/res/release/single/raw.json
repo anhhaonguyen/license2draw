@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/cubin/Desktop/Personal/license2draw/app/build/intermediates/res/merged/release/raw/legal.txt",
+        "source": "/Users/cubin/Desktop/Personal/license2draw/app/src/main/res/raw/legal.txt"
+    },
+    {
+        "merged": "/Users/cubin/Desktop/Personal/license2draw/app/build/intermediates/res/merged/release/raw/info.txt",
+        "source": "/Users/cubin/Desktop/Personal/license2draw/app/src/main/res/raw/info.txt"
+    },
+    {
+        "merged": "/Users/cubin/Desktop/Personal/license2draw/app/build/intermediates/res/merged/release/raw/opensource.txt",
+        "source": "/Users/cubin/Desktop/Personal/license2draw/app/src/main/res/raw/opensource.txt"
+    }
+]
